@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T15:39:00Z",
+  "generated_at": "2026-08-07T14:37:55Z",
   "build_label": "FULL_BUILD",
   "mode": "production",
   "county": "Charleston",
@@ -30,525 +30,8 @@
     "live_verification_passed": false
   },
   "build_label_reason": "",
-  "lead_total": 16,
+  "lead_total": 20,
   "records": [
-    {
-      "lead_id": "lead_bf181ea628573b58",
-      "primary_parcel_id": "CHC-PROB-E47F732541F2",
-      "display_address": "BALDRICK, OLGA VALERIE",
-      "display_owner": "Unknown",
-      "display_score": 60,
-      "display_tier": "Workable",
-      "display_patterns": [
-        "estate"
-      ],
-      "stack_contrib_patterns": [
-        "estate"
-      ],
-      "display_pattern_set": [
-        "estate"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_LETTERS_TESTAMENTARY",
-          "delta": 55
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
-        }
-      ],
-      "evidence_ids": [
-        "ev_6dcf50edef1248098dc5371212cd740a"
-      ],
-      "primary_source_urls": [
-        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001342"
-      ],
-      "primary_event_date": "2026-07-16",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_e57964438b19adeb",
-      "primary_parcel_id": "CHC-PROB-A500C7410C71",
-      "display_address": "GODFREY, KAREN MICHELE",
-      "display_owner": "Unknown",
-      "display_score": 55,
-      "display_tier": "Workable",
-      "display_patterns": [
-        "estate"
-      ],
-      "stack_contrib_patterns": [
-        "estate"
-      ],
-      "display_pattern_set": [
-        "estate"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_LETTERS_TESTAMENTARY",
-          "delta": 55
-        }
-      ],
-      "evidence_ids": [
-        "ev_0ccc535a676f4f49a096516f7773ead0"
-      ],
-      "primary_source_urls": [
-        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001187"
-      ],
-      "primary_event_date": "2026-06-18",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_525920f8cc173307",
-      "primary_parcel_id": "CHC-PROB-64454C4C8EA4",
-      "display_address": "BONAPARTE, WALLACE TYRONE",
-      "display_owner": "Unknown",
-      "display_score": 55,
-      "display_tier": "Workable",
-      "display_patterns": [
-        "estate"
-      ],
-      "stack_contrib_patterns": [
-        "estate"
-      ],
-      "display_pattern_set": [
-        "estate"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_LETTERS_TESTAMENTARY",
-          "delta": 55
-        }
-      ],
-      "evidence_ids": [
-        "ev_9b46391277d9492692fcc2e14dd15472"
-      ],
-      "primary_source_urls": [
-        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1000954"
-      ],
-      "primary_event_date": "2026-05-15",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_fdd625c6b0f47978",
-      "primary_parcel_id": "CHC-PROB-F3753E144A32",
-      "display_address": "KOCH, GREGORY JOHN",
-      "display_owner": "Unknown",
-      "display_score": 55,
-      "display_tier": "Workable",
-      "display_patterns": [
-        "estate"
-      ],
-      "stack_contrib_patterns": [
-        "estate"
-      ],
-      "display_pattern_set": [
-        "estate"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_LETTERS_TESTAMENTARY",
-          "delta": 55
-        }
-      ],
-      "evidence_ids": [
-        "ev_9e59a5d286034cd2909ab46b860257b3"
-      ],
-      "primary_source_urls": [
-        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1000988"
-      ],
-      "primary_event_date": "2026-05-18",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_943a9d6682e47c89",
-      "primary_parcel_id": "CHC-PROB-CE4071F9BF57",
-      "display_address": "COLLINS, DORIS H.",
-      "display_owner": "Unknown",
-      "display_score": 55,
-      "display_tier": "Workable",
-      "display_patterns": [
-        "estate"
-      ],
-      "stack_contrib_patterns": [
-        "estate"
-      ],
-      "display_pattern_set": [
-        "estate"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_LETTERS_TESTAMENTARY",
-          "delta": 55
-        }
-      ],
-      "evidence_ids": [
-        "ev_f2293aab5ff74177aa6ef632dd1f7e42"
-      ],
-      "primary_source_urls": [
-        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001178"
-      ],
-      "primary_event_date": "2026-06-23",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_d73c534dcbca9c31",
-      "primary_parcel_id": "CHC-PROB-E92E3BC64DA1",
-      "display_address": "ABELE, ROBERT BURKE",
-      "display_owner": "Unknown",
-      "display_score": 55,
-      "display_tier": "Workable",
-      "display_patterns": [
-        "estate"
-      ],
-      "stack_contrib_patterns": [
-        "estate"
-      ],
-      "display_pattern_set": [
-        "estate"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_LETTERS_TESTAMENTARY",
-          "delta": 55
-        }
-      ],
-      "evidence_ids": [
-        "ev_c3d9f6bfe8484f2699be8c07f8e0af64"
-      ],
-      "primary_source_urls": [
-        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001176"
-      ],
-      "primary_event_date": "2026-06-17",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_4220cb7c5199c913",
-      "primary_parcel_id": "CHC-PROB-503834EC0C70",
-      "display_address": "JOHNSON, DORIS C.",
-      "display_owner": "Unknown",
-      "display_score": 55,
-      "display_tier": "Workable",
-      "display_patterns": [
-        "estate"
-      ],
-      "stack_contrib_patterns": [
-        "estate"
-      ],
-      "display_pattern_set": [
-        "estate"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_LETTERS_TESTAMENTARY",
-          "delta": 55
-        }
-      ],
-      "evidence_ids": [
-        "ev_9e7f76d32b4e40768ddc9f379e380c1d"
-      ],
-      "primary_source_urls": [
-        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1000940"
-      ],
-      "primary_event_date": "2026-05-13",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_348c0452e322f055",
-      "primary_parcel_id": "CHC-PROB-1DC31346C845",
-      "display_address": "FULLER, FRANCES F.",
-      "display_owner": "Unknown",
-      "display_score": 55,
-      "display_tier": "Workable",
-      "display_patterns": [
-        "estate"
-      ],
-      "stack_contrib_patterns": [
-        "estate"
-      ],
-      "display_pattern_set": [
-        "estate"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_LETTERS_TESTAMENTARY",
-          "delta": 55
-        }
-      ],
-      "evidence_ids": [
-        "ev_f2e72d8cad294ababd5bac8c358da918"
-      ],
-      "primary_source_urls": [
-        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001164"
-      ],
-      "primary_event_date": "2026-06-15",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
-    {
-      "lead_id": "lead_d0332e1fd6c8ed6a",
-      "primary_parcel_id": "CHC-PROB-BDE83EF59DBF",
-      "display_address": "HOLLIFIELD, WILLIAM RAYMOND",
-      "display_owner": "Unknown",
-      "display_score": 55,
-      "display_tier": "Workable",
-      "display_patterns": [
-        "estate"
-      ],
-      "stack_contrib_patterns": [
-        "estate"
-      ],
-      "display_pattern_set": [
-        "estate"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_LETTERS_TESTAMENTARY",
-          "delta": 55
-        }
-      ],
-      "evidence_ids": [
-        "ev_05aa57aae8a448f093e47fb0721ed431"
-      ],
-      "primary_source_urls": [
-        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001069"
-      ],
-      "primary_event_date": "2026-05-29",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "no_match",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "parcel_not_found_in_bcad"
-      ]
-    },
     {
       "lead_id": "lead_795678f41250d6d7",
       "primary_parcel_id": "CHC-PROB-084C63E62402",
@@ -591,7 +74,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_84d766424d5b4def95574d7bd13a46f2"
+        "ev_0af94a0350f342c4b6ec165f9e0cfc31"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001117"
@@ -607,11 +90,11 @@
       ]
     },
     {
-      "lead_id": "lead_39030c971aeb7d04",
+      "lead_id": "lead_445c45928930dd85",
       "primary_parcel_id": "CHC-PROB-CDFB7B7212E6",
       "display_address": "STROBEL, SUSAN AMANDA",
       "display_owner": "Unknown",
-      "display_score": 60,
+      "display_score": 55,
       "display_tier": "Workable",
       "display_patterns": [
         "estate"
@@ -645,14 +128,10 @@
         {
           "factor": "base_LETTERS_TESTAMENTARY",
           "delta": 55
-        },
-        {
-          "factor": "recent_filing_within_30_days",
-          "delta": 5
         }
       ],
       "evidence_ids": [
-        "ev_dc1f8a8b70374cfa859b7e9a54ebcd78"
+        "ev_3751da6f27cd497c9e648c9e34418769"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001283"
@@ -709,7 +188,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_6c684bbe89c847a299b23536ee41a46c"
+        "ev_6798b0fddcc241adbf7a6d74b262d0e4"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1000955"
@@ -770,7 +249,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_29401487f40b4e339dff30a7e7982634"
+        "ev_1f1d08b083944ac5a1d90226f4d8f526"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001463"
@@ -831,7 +310,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_01d987ceee3a43c88442b2942d9b039b"
+        "ev_ff9e81cce6de4542b48d438aa4d52365"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001281"
@@ -888,7 +367,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_c183cb55b84842308f8820400f7f1ed4"
+        "ev_b430f9dd48414dd8892fe8493507408c"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001185"
@@ -945,7 +424,7 @@
         }
       ],
       "evidence_ids": [
-        "ev_abda7c35d1b04c55b3a037f870fadc03"
+        "ev_77430cb4bf134ff28dc991c938f4fcda"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001311"
@@ -959,19 +438,780 @@
       "review_flags": [
         "parcel_not_found_in_bcad"
       ]
+    },
+    {
+      "lead_id": "lead_a922690dba099d09",
+      "primary_parcel_id": "CHC-PROB-05A6851B26C1",
+      "display_address": "HARDING, JANE ANNE",
+      "display_owner": "Unknown",
+      "display_score": 55,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "estate"
+      ],
+      "stack_contrib_patterns": [
+        "estate"
+      ],
+      "display_pattern_set": [
+        "estate"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LETTERS_TESTAMENTARY",
+          "delta": 55
+        }
+      ],
+      "evidence_ids": [
+        "ev_cf38b464bc434cba8aa3c56004fd2174"
+      ],
+      "primary_source_urls": [
+        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001177"
+      ],
+      "primary_event_date": "2026-06-17",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_b9ea97d4244ead82",
+      "primary_parcel_id": "CHC-PROB-4A4DDCD9C449",
+      "display_address": "BELANGER, GLORIA ROWE",
+      "display_owner": "Unknown",
+      "display_score": 60,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "estate"
+      ],
+      "stack_contrib_patterns": [
+        "estate"
+      ],
+      "display_pattern_set": [
+        "estate"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LETTERS_TESTAMENTARY",
+          "delta": 55
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_1340dc5ad5734d6a9227b6a45cb213bc"
+      ],
+      "primary_source_urls": [
+        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001409"
+      ],
+      "primary_event_date": "2026-07-27",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_23df27808f9157ec",
+      "primary_parcel_id": "CHC-PROB-1678E0AA8810",
+      "display_address": "BENNETT, NATASHA",
+      "display_owner": "Unknown",
+      "display_score": 55,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "estate"
+      ],
+      "stack_contrib_patterns": [
+        "estate"
+      ],
+      "display_pattern_set": [
+        "estate"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LETTERS_TESTAMENTARY",
+          "delta": 55
+        }
+      ],
+      "evidence_ids": [
+        "ev_67cbd31909804a93af48fdd6585a15c1"
+      ],
+      "primary_source_urls": [
+        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001250"
+      ],
+      "primary_event_date": "2026-07-01",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_b328eb9827b4169c",
+      "primary_parcel_id": "CHC-PROB-44A30752EAB0",
+      "display_address": "CORBIN, JAMES EDWARD",
+      "display_owner": "Unknown",
+      "display_score": 55,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "estate"
+      ],
+      "stack_contrib_patterns": [
+        "estate"
+      ],
+      "display_pattern_set": [
+        "estate"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LETTERS_TESTAMENTARY",
+          "delta": 55
+        }
+      ],
+      "evidence_ids": [
+        "ev_dd283649f2fc43949bb99f4e17838367"
+      ],
+      "primary_source_urls": [
+        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001155"
+      ],
+      "primary_event_date": "2026-06-15",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_cdca6c3b828dbf2e",
+      "primary_parcel_id": "CHC-PROB-8E6941E4F3EF",
+      "display_address": "WATSON, WILLIAM WALTER",
+      "display_owner": "Unknown",
+      "display_score": 60,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "estate"
+      ],
+      "stack_contrib_patterns": [
+        "estate"
+      ],
+      "display_pattern_set": [
+        "estate"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LETTERS_TESTAMENTARY",
+          "delta": 55
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_b0b76403b87742e2a7f741ce982fe809"
+      ],
+      "primary_source_urls": [
+        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001298"
+      ],
+      "primary_event_date": "2026-07-09",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_b00714de4069e381",
+      "primary_parcel_id": "CHC-PROB-28EC9E44E4A6",
+      "display_address": "BROUGH, GRAHAM ROBERT",
+      "display_owner": "Unknown",
+      "display_score": 55,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "estate"
+      ],
+      "stack_contrib_patterns": [
+        "estate"
+      ],
+      "display_pattern_set": [
+        "estate"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LETTERS_TESTAMENTARY",
+          "delta": 55
+        }
+      ],
+      "evidence_ids": [
+        "ev_113ac7d2f27142edae10dacdd870f6b7"
+      ],
+      "primary_source_urls": [
+        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001088"
+      ],
+      "primary_event_date": "2026-06-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_f8231e86572b1018",
+      "primary_parcel_id": "CHC-PROB-DDC83E0B8105",
+      "display_address": "ALLAN, HENRY LEE",
+      "display_owner": "Unknown",
+      "display_score": 55,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "estate"
+      ],
+      "stack_contrib_patterns": [
+        "estate"
+      ],
+      "display_pattern_set": [
+        "estate"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LETTERS_TESTAMENTARY",
+          "delta": 55
+        }
+      ],
+      "evidence_ids": [
+        "ev_f628d1e19a5644258c32dc5d1bfbdfdd"
+      ],
+      "primary_source_urls": [
+        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001252"
+      ],
+      "primary_event_date": "2026-07-01",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_d818c7eafc016bda",
+      "primary_parcel_id": "CHC-PROB-CB6F12A69A61",
+      "display_address": "BROWN, GAYLE AUSTIN",
+      "display_owner": "Unknown",
+      "display_score": 55,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "estate"
+      ],
+      "stack_contrib_patterns": [
+        "estate"
+      ],
+      "display_pattern_set": [
+        "estate"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LETTERS_TESTAMENTARY",
+          "delta": 55
+        }
+      ],
+      "evidence_ids": [
+        "ev_b23f7229543c4d239e81ba5000d5a425"
+      ],
+      "primary_source_urls": [
+        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001194"
+      ],
+      "primary_event_date": "2026-06-22",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_48a97101f0f264d2",
+      "primary_parcel_id": "CHC-PROB-DA7A0EDFA6A4",
+      "display_address": "LAMBERSON, DANA MICHAEL",
+      "display_owner": "Unknown",
+      "display_score": 60,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "estate"
+      ],
+      "stack_contrib_patterns": [
+        "estate"
+      ],
+      "display_pattern_set": [
+        "estate"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LETTERS_TESTAMENTARY",
+          "delta": 55
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_8384dcb03bbe40d3b79f36dd7578db85"
+      ],
+      "primary_source_urls": [
+        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001475"
+      ],
+      "primary_event_date": "2026-08-04",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_25548a14656d0fe4",
+      "primary_parcel_id": "CHC-PROB-A18246482043",
+      "display_address": "MUENOW, SUSAN LYNN",
+      "display_owner": "Unknown",
+      "display_score": 55,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "estate"
+      ],
+      "stack_contrib_patterns": [
+        "estate"
+      ],
+      "display_pattern_set": [
+        "estate"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LETTERS_TESTAMENTARY",
+          "delta": 55
+        }
+      ],
+      "evidence_ids": [
+        "ev_723a872ed86347488581441192bbc26a"
+      ],
+      "primary_source_urls": [
+        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001191"
+      ],
+      "primary_event_date": "2026-06-22",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_57876a0d4fd790e4",
+      "primary_parcel_id": "CHC-PROB-1DBE727FF570",
+      "display_address": "MURPHY, CHRISTOPHER JOHN",
+      "display_owner": "Unknown",
+      "display_score": 60,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "estate"
+      ],
+      "stack_contrib_patterns": [
+        "estate"
+      ],
+      "display_pattern_set": [
+        "estate"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LETTERS_TESTAMENTARY",
+          "delta": 55
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_d7050d8e1bcc4f218b976cf9f9568dd9"
+      ],
+      "primary_source_urls": [
+        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001406"
+      ],
+      "primary_event_date": "2026-07-27",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_67e558080d84a0b0",
+      "primary_parcel_id": "CHC-PROB-AE3168A6DDFD",
+      "display_address": "BAKER, ROBERT FRANCIS",
+      "display_owner": "Unknown",
+      "display_score": 60,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "estate"
+      ],
+      "stack_contrib_patterns": [
+        "estate"
+      ],
+      "display_pattern_set": [
+        "estate"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LETTERS_TESTAMENTARY",
+          "delta": 55
+        },
+        {
+          "factor": "recent_filing_within_30_days",
+          "delta": 5
+        }
+      ],
+      "evidence_ids": [
+        "ev_713d35b9a8764683bed7f0752a78c3d0"
+      ],
+      "primary_source_urls": [
+        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001377"
+      ],
+      "primary_event_date": "2026-07-21",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
+    },
+    {
+      "lead_id": "lead_909f11bbaf91ce19",
+      "primary_parcel_id": "CHC-PROB-241050E65359",
+      "display_address": "ANDERSON, DAVID LAURI",
+      "display_owner": "Unknown",
+      "display_score": 55,
+      "display_tier": "Workable",
+      "display_patterns": [
+        "estate"
+      ],
+      "stack_contrib_patterns": [
+        "estate"
+      ],
+      "display_pattern_set": [
+        "estate"
+      ],
+      "display_attributes": [],
+      "display_deal_paths": [
+        "wholesale"
+      ],
+      "display_deal_path_details": [
+        {
+          "path": "wholesale",
+          "confidence": "moderate",
+          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
+        }
+      ],
+      "display_title_complexity_tier": "None",
+      "display_lead_status": "REVIEW_REQUIRED",
+      "display_assessed_value": null,
+      "display_last_sale_price": null,
+      "display_last_sale_date": null,
+      "display_year_built": null,
+      "display_match_confidence": 0,
+      "stack_depth": 1,
+      "score_reasons": [
+        {
+          "factor": "base_LETTERS_TESTAMENTARY",
+          "delta": 55
+        }
+      ],
+      "evidence_ids": [
+        "ev_3818c515cd5b457b9f9f3c48080d35dc"
+      ],
+      "primary_source_urls": [
+        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001212"
+      ],
+      "primary_event_date": "2026-06-24",
+      "expected_sale_date": null,
+      "parcel_master_status": "no_bcad_match",
+      "parcel_master_status_note": "",
+      "parcel_master_match_method": "no_match",
+      "candidate_parcel_ids": [],
+      "review_flags": [
+        "parcel_not_found_in_bcad"
+      ]
     }
   ],
   "pattern_counts": {
-    "estate": 16
+    "estate": 20
   },
   "attribute_counts": {},
   "stack_depth_distribution": {
-    "1": 16
+    "1": 20
   },
   "score_tier_distribution": {
-    "Workable": 16
+    "Workable": 20
   },
   "deal_path_distribution": {
-    "wholesale": 16
+    "wholesale": 20
   }
 }
