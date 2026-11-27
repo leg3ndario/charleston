@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T13:39:09Z",
+  "generated_at": "2026-11-27T13:43:39Z",
   "build_label": "FULL_BUILD",
   "mode": "production",
   "county": "Charleston",
@@ -30,7 +30,7 @@
     "live_verification_passed": false
   },
   "build_label_reason": "",
-  "lead_total": 41,
+  "lead_total": 40,
   "records": [
     {
       "lead_id": "lead_966817c9f1690eab",
@@ -79,7 +79,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f295367310074b54bd15b8c9e619fd27"
+        "ev_0cb01285858e47c9a8b7beaa24ecccec"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1002013"
@@ -138,7 +138,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_7b808027da5a4766ad538b7e606b5c23"
+        "ev_49f3bb29a351443b859cffa919973b94"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001837"
@@ -201,7 +201,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_4a25d9c6e04b42738e25b8dc451ead54"
+        "ev_e4501606da5e450a871256433d953bcd"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1002022"
@@ -264,7 +264,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ae12d573e46845bab3da8502e3dfd031"
+        "ev_ed5481d675644be3bf29c4e8e39edca1"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1002018"
@@ -327,7 +327,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_7d9b88ae15f64a919255cad5444cd8dc"
+        "ev_f45fcfbfc32c4427bad4e3eb1675c32a"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1002127"
@@ -390,7 +390,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_9172b7cc02744fe294ade9748f13a3a5"
+        "ev_0a16460a4ca74a98b3460804f33e7dce"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1002104"
@@ -453,7 +453,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_68af4467394e41faa4b848bf134fb42e"
+        "ev_95b5d5efff5a4175a12ed6941b1a95c9"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1002050"
@@ -512,7 +512,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_75005c42c9304947bceb16d507fd815e"
+        "ev_a4f5f5a7984241e6ab3a2c218abebc72"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001838"
@@ -571,7 +571,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_161b5bd3ad794e79b21f22780d76e098"
+        "ev_8d3a229f84044640ae7990f580badc8c"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001873"
@@ -630,7 +630,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_2f321784125c4faa9badb13dc08a25ca"
+        "ev_cd8e3de82da84434b9c55d24c12f1d65"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001722"
@@ -689,7 +689,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3dbb4a53f86644e6bf51d769748de1b7"
+        "ev_45cefb7d7c4a43eb8df9ad625ee5c179"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001667"
@@ -752,7 +752,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6bcd7c73a7c747fd81f5e26d736e8694"
+        "ev_7ce0f7f2bdd546c789263693fb9327ff"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001998"
@@ -811,7 +811,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_74007f2ed9fe4e73809d52d37b5b1897"
+        "ev_fc3ddab87606434e8ace9ffe49e0ee12"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001739"
@@ -874,7 +874,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_8089df73d54c45dd8ddb1ed682771ebf"
+        "ev_88c751726f3c485f9f49647a1b71070c"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1002084"
@@ -937,7 +937,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_ef10fa7742f04fe59749f6a50130b5bb"
+        "ev_d051f701ce0e46f9b8c0340f20b47701"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001981"
@@ -996,71 +996,12 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d7befac3353845bcadb0777df2847af6"
+        "ev_179ed21e4d264098b53598c839970cb1"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001881"
       ],
       "primary_event_date": "2026-10-12",
-      "expected_sale_date": null,
-      "parcel_master_status": "no_bcad_match",
-      "parcel_master_status_note": "",
-      "parcel_master_match_method": "placeholder",
-      "candidate_parcel_ids": [],
-      "review_flags": [
-        "match_confidence_low"
-      ],
-      "display_stages": {}
-    },
-    {
-      "lead_id": "lead_7c78fc32b158ad10",
-      "primary_parcel_id": "CHC-PROB-7F83FAE187C0",
-      "display_address": "TANT, DAVID RAY",
-      "display_owner": "Unknown",
-      "display_score": 55,
-      "display_tier": "Workable",
-      "display_patterns": [
-        "estate"
-      ],
-      "stack_contrib_patterns": [
-        "estate"
-      ],
-      "display_pattern_set": [
-        "estate"
-      ],
-      "display_attributes": [],
-      "display_deal_paths": [
-        "wholesale"
-      ],
-      "display_deal_path_details": [
-        {
-          "path": "wholesale",
-          "confidence": "moderate",
-          "rationale": "Single-signal distress; lower-conviction wholesale candidate."
-        }
-      ],
-      "display_title_complexity_tier": "None",
-      "display_lead_status": "REVIEW_REQUIRED",
-      "display_assessed_value": null,
-      "display_last_sale_price": null,
-      "display_last_sale_date": null,
-      "display_year_built": null,
-      "display_match_confidence": 0,
-      "stack_depth": 1,
-      "score_reasons": [
-        {
-          "factor": "base_LETTERS_TESTAMENTARY",
-          "delta": 55
-        }
-      ],
-      "display_violations": [],
-      "evidence_ids": [
-        "ev_219cf30b07874079813c05afacee8b72"
-      ],
-      "primary_source_urls": [
-        "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001605"
-      ],
-      "primary_event_date": "2026-08-28",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -1114,7 +1055,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_85b168408f874acc964718aed39322e3"
+        "ev_2a85afbbf52d48c68a00a89aecb73f26"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001785"
@@ -1173,7 +1114,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_0bd4825c9bb64fdf950439f875771d8b"
+        "ev_46117554ed5b40eab04f5a9b999a6aa7"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001916"
@@ -1232,7 +1173,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_a24bf22e18db407ea2f42f0ebedef4bb"
+        "ev_abdeb573772145f182047a4ad3545800"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001806"
@@ -1295,7 +1236,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b8eb6b7a1d29430c8763d384d67ab7f5"
+        "ev_7c365dc7ba1a49b7af18e80f17f712ae"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1002035"
@@ -1358,7 +1299,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_60f36828298941b3ad923f9ec343f2fe"
+        "ev_4b1500cc20c243988c745cda62504610"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1002001"
@@ -1417,7 +1358,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_db4a855bd0804cd5ac612dab92e8a3fc"
+        "ev_5e111ab9f89c4b97abc4f8203bd2bd83"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001796"
@@ -1476,7 +1417,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_68c0b5a961fc4223a040455da53da02a"
+        "ev_5829440c3aa0479fac1686a56a5ccb3e"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001774"
@@ -1539,7 +1480,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_98c33c39b0c248a18ffcc07e6907d5e4"
+        "ev_78be8e8de6e54125af4233ba78169bd0"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1002030"
@@ -1598,7 +1539,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_85798764b1ec4ef6b9034143ffbc331d"
+        "ev_1dcebf101aec4656a300c635b47871c3"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001882"
@@ -1657,7 +1598,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_b2f7f04e3d2f49c88b0deeed21cd7711"
+        "ev_a6e2272340744a73a08039bf026ff02f"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001721"
@@ -1720,7 +1661,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_fcaf02e05668455a90d012931a219081"
+        "ev_7bd4b91d10c543a1b93dd4621c8e987e"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1002151"
@@ -1779,7 +1720,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_2dfb6c50bd5f4f87948da7b0d6b0ced2"
+        "ev_874a3156e5d047b19e87789873579be0"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001651"
@@ -1838,7 +1779,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_6a8da88aa1c54115b7335d15d2e00118"
+        "ev_0b3a2bfe3ddf446fb99cf80b1ae531e3"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001835"
@@ -1897,7 +1838,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_09cdb208d495415ab034bb1b3e64e09f"
+        "ev_077fe7425f314074a7e3077b26ebab27"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001934"
@@ -1956,7 +1897,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_2d96574af1dd4197bc94e145326dc938"
+        "ev_6e2b67b693114183917577242ca0a547"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001644"
@@ -2015,7 +1956,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_037bc4bc17b443268d1a5dbe39b4ef99"
+        "ev_5dc1bec222964e268727951ee95e0356"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001961"
@@ -2074,7 +2015,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_02f535b1e2954f63a60d9ae8f9f21978"
+        "ev_0347e23de3eb40ab95be4d048637e3b8"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001665"
@@ -2133,7 +2074,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d9556801b5c64403af40354be8d4d778"
+        "ev_9d3a37209abd415696c0c825e8adbb8b"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001960"
@@ -2192,7 +2133,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_cf01dd50f3564e1ead1e4a03368fe006"
+        "ev_343a77b8e7604837a88b9980cfb244ed"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001842"
@@ -2251,7 +2192,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_2efaa4883bed4bb09603eef0c95fda22"
+        "ev_482c99d5de4747d3b70f1a23d219b1dc"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001681"
@@ -2310,7 +2251,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_92082ac77597421f877c682e7c8c5641"
+        "ev_60cc67aeb4364264afd3a547a490c25f"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1001741"
@@ -2373,7 +2314,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_4e4a764c19e2497db7b139dd0e2e505e"
+        "ev_e142ad084ad8439ea9ca5af9d88ca1ea"
       ],
       "primary_source_urls": [
         "https://www.southcarolinaprobate.net/charlestonprobatesearch/?case=2026ES1002120"
@@ -2436,7 +2377,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_665d2b6486e643efa8bd26e9176078c6"
+        "ev_7201e3db2288401da0e87f340ce192a8"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#15025-162775"
@@ -2513,7 +2454,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_a92549bc37a94b6e9e165387d35ccfb1"
+        "ev_db6c1da989774cf6a80008b581e1c359"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/a5e8ea46-04ac-4f35-a25f-de45f90163b5"
@@ -2536,21 +2477,21 @@
   ],
   "pattern_counts": {
     "code": 1,
-    "estate": 39,
+    "estate": 38,
     "foreclosure": 1
   },
   "attribute_counts": {
     "vacant": 1
   },
   "stack_depth_distribution": {
-    "1": 41
+    "1": 40
   },
   "score_tier_distribution": {
     "Strong": 1,
-    "Workable": 40
+    "Workable": 39
   },
   "deal_path_distribution": {
     "flip": 1,
-    "wholesale": 41
+    "wholesale": 40
   }
 }

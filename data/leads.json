@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T13:39:09Z",
+  "generated_at": "2026-11-27T13:43:39Z",
   "build_label": "FULL_BUILD",
   "mode": "production",
   "county": "Charleston",
@@ -79,7 +79,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_efc293c90f7f4d3a901d9ce7d76fb473"
+        "ev_62b26cf443954656adf4dbe0f8a389bf"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#30799-160013"
@@ -115,7 +115,7 @@
         "cur": 64053.41
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_d462f69e5d54ac74",
@@ -164,7 +164,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_d2198e9fd85942259ab46c55f8914f33"
+        "ev_271e9eb85614497887ebe54e3a15bb1d"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#31798-166257"
@@ -199,7 +199,7 @@
         "fc_sale": "2026-12-01"
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_181eab280bf77eab",
@@ -248,7 +248,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_7078d4406a064ee686e2c01370750541"
+        "ev_ba066e87b6314562925a75632cf2cf1c"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#33605-176035"
@@ -283,7 +283,7 @@
         "fc_sale": "2027-01-05"
       },
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_0c060a6b3d07a18f",
@@ -332,7 +332,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1c54f8536b604f479b7b77086ef960ec"
+        "ev_32a4217e30dd4083999a13efb830aec8"
       ],
       "primary_source_urls": [
         "https://sales.hutchenslawfirm.com/SCfcSalesList.aspx#26444-134626"
@@ -367,7 +367,7 @@
         "fc_sale": "2027-01-05"
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_69f7651fc74773b8",
@@ -416,7 +416,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_2396b60e420a4cb485ca17f418e7e1d0"
+        "ev_84f95606474b454eb7598a58324fa524"
       ],
       "primary_source_urls": [
         "https://www.brockandscott.com/foreclosure-sales/#25-30105-FC01"
@@ -452,7 +452,7 @@
         "cur": 356500.0
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_66e32531d633304a",
@@ -501,7 +501,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_baf7310968784870ab2bd51fc7e12d21"
+        "ev_b4e539c93cc24a98a14f0f2a0881041e"
       ],
       "primary_source_urls": [
         "https://www.brockandscott.com/foreclosure-sales/#25-28928-FC01"
@@ -536,7 +536,7 @@
         "fc_sale": "2027-01-05"
       },
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_8c085a7fad081081",
@@ -585,7 +585,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_37db6002b4a14fb3b22f1b1545d09790"
+        "ev_7125b5840aa0462c8d8719934b91c319"
       ],
       "primary_source_urls": [
         "https://www.brockandscott.com/foreclosure-sales/#24-33378-FC01"
@@ -620,7 +620,7 @@
         "fc_sale": "2027-01-05"
       },
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_f4b775ce9326e619",
@@ -669,7 +669,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_864aa6fd0e0841dca5d7528d169a763b"
+        "ev_21fceedf5edf48d5af209eea416df22b"
       ],
       "primary_source_urls": [
         "https://bellcarrington.com/foreclosure-sales/#5645a0f9084e"
@@ -704,7 +704,7 @@
         "fc_sale": "2027-01-05"
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_32893150aea70f78",
@@ -753,7 +753,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_f1851cd43d5c4a43ac9de321dc4f25bb"
+        "ev_32b30bbd40e84d49b7983d7fafa10d90"
       ],
       "primary_source_urls": [
         "https://www.scpublicnotices.com/Search.aspx#659395"
@@ -787,7 +787,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_91e7299fad8a7a08",
@@ -836,12 +836,12 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_1c765242925148b1903dee22c921cba3"
+        "ev_de95baa8e9a34713a271a728aa79c7f7"
       ],
       "primary_source_urls": [
-        "https://www.scpublicnotices.com/Search.aspx#664309"
+        "https://www.scpublicnotices.com/Search.aspx#666694"
       ],
-      "primary_event_date": "2026-11-20",
+      "primary_event_date": "2026-11-27",
       "expected_sale_date": null,
       "parcel_master_status": "no_bcad_match",
       "parcel_master_status_note": "",
@@ -855,20 +855,20 @@
         "links": [
           {
             "t": "Estate Notice",
-            "u": "https://www.scpublicnotices.com/Search.aspx#664309",
-            "d": "2026-11-20"
+            "u": "https://www.scpublicnotices.com/Search.aspx#666694",
+            "d": "2026-11-27"
           }
         ],
         "tags": [
           "Estate Notice"
         ],
-        "src": "https://www.scpublicnotices.com/Search.aspx#664309",
+        "src": "https://www.scpublicnotices.com/Search.aspx#666694",
         "srcs": [
           "charleston_legal_notices"
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_949c2bb3f4d5e664",
@@ -917,7 +917,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_093e15a8aeff40ebb68bc29ca42d663b"
+        "ev_08f896ff2fb847c8b8932ab28e95f33c"
       ],
       "primary_source_urls": [
         "https://www.scpublicnotices.com/Search.aspx#659697"
@@ -949,7 +949,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_6cbcf8c56a98af2c",
@@ -998,7 +998,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_3655d0d2385246f48d408f276de5983d"
+        "ev_245dd63e372b4952a5e191e1c6cbf954"
       ],
       "primary_source_urls": [
         "https://www.scpublicnotices.com/Search.aspx#657457"
@@ -1030,7 +1030,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_7c779adc09d3bd3b",
@@ -1079,7 +1079,7 @@
       ],
       "display_violations": [],
       "evidence_ids": [
-        "ev_16f492f2c8c14a3ebd581bc6079a1009"
+        "ev_4ff5eee3b75149589b6b256c04ae0947"
       ],
       "primary_source_urls": [
         "https://www.scpublicnotices.com/Search.aspx#656457"
@@ -1111,7 +1111,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_7f7bd9729b80dfa6",
@@ -1170,7 +1170,7 @@
         "Livability Compliance – Vacant Properties, Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_805d269cdfaa4b7697b835b654da928c"
+        "ev_1ca9e8bb973840ce96f235180af1481a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/98fadacc-f63a-467d-9538-f926991668dc"
@@ -1204,7 +1204,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_aca1d15153b24960",
@@ -1263,7 +1263,7 @@
         "Livability Compliance – Vacant Properties, Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_b4b55144de0e4fa590555b2c400c37a7"
+        "ev_e61fc2e193f34b4b8a38f108e8058986"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/6ade42fe-2591-49d8-a3e2-f0b6535194bf"
@@ -1297,7 +1297,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_db772d19a22f10f3",
@@ -1356,7 +1356,7 @@
         "Livability Compliance – Vacant Properties, Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_1a2958626fc94e6199ebd14783a55f71"
+        "ev_2d37830e19774f6ebe1314e56d600a04"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/2f06584d-529d-4675-b929-f6e3031e0186"
@@ -1390,7 +1390,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_c4e8c42c7cc525f7",
@@ -1449,7 +1449,7 @@
         "Livability Compliance – Vacant Properties, Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_2cde8b29b3b54246a69047931fba664d"
+        "ev_1cbd107a2987497bb091021090aae81f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/461cb1ec-4987-43bc-bf5b-110f6c03d4dc"
@@ -1483,7 +1483,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_2693578639becab8",
@@ -1542,7 +1542,7 @@
         "Livability Compliance – Vacant Properties, Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_c6357d1d8de04185a3ccfafcb8933a6a"
+        "ev_e649de2954a04253a8ce6cc918d9f36e"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/0f489380-d48b-4592-8c49-6706ef448366"
@@ -1576,7 +1576,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_97cb2a463713cccc",
@@ -1635,7 +1635,7 @@
         "Livability Compliance – Vacant Properties, Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_03bf4244a9dd4b6eaf17a407f5ae262a"
+        "ev_539c608201704eb39dd746d4b78f5dc5"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/b254fcd2-fe95-4da3-b409-3a9961d8731f"
@@ -1669,7 +1669,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_f6eebca1a9304e9a",
@@ -1728,7 +1728,7 @@
         "Livability Compliance – Vacant Properties, Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_7a42514073fb4515bce6b6224e9b304d"
+        "ev_e321c84560c942afb0ad644e70dea47e"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/94171f72-12ba-43c3-a5b5-ec925bd32b41"
@@ -1762,7 +1762,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_096c36f080208d05",
@@ -1821,7 +1821,7 @@
         "Livability Compliance – Vacant Properties, Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_6fb6204bef354b54839dbd0cd773d603"
+        "ev_9746ccabbcaf46009119703a62939500"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/5cda52fd-e653-47a3-a220-113b54430724"
@@ -1855,7 +1855,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_c2632aa2a1f132b3",
@@ -1914,7 +1914,7 @@
         "Livability Compliance – Vacant Properties, Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_7f8a0c0a0e6e4776b5f68dc8d84573da"
+        "ev_75230a40082d47f89b10374262a352a9"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/04fd58cb-d2b4-4795-aca0-8142d53ab17c"
@@ -1948,7 +1948,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_0dbd738258559a9a",
@@ -2007,7 +2007,7 @@
         "Livability Compliance – Vacant Properties, Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_8302eca0898849488da0be0eaf030c0c"
+        "ev_d4912035e35f480f887be9498c007ad7"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/7112ce14-10db-419f-a01d-1da7adb1c2a0"
@@ -2041,7 +2041,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_e3d1383014af2575",
@@ -2100,7 +2100,7 @@
         "Livability Compliance – Vacant Properties, Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_4eb314342c074fed8fb659c498be208f"
+        "ev_52040c5cda5c4a8883393c7503908e26"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/05d7ac53-518f-45bd-b4a5-2bfba4200c46"
@@ -2134,7 +2134,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_7658b20dfebbeb62",
@@ -2193,7 +2193,7 @@
         "Livability Compliance – Vacant Properties, Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_2b2d2d74043d4cd9b4833bd0dfc8282d"
+        "ev_43efcd89d36a411889e82a4dda73431b"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/68ac1af6-60d7-4296-a072-9dfef95e08c1"
@@ -2227,7 +2227,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_b26fabf1f91e86b3",
@@ -2286,7 +2286,7 @@
         "Livability Compliance – Vacant Properties, Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_653e402e891546b1aae75bfa802d513d"
+        "ev_503165c335bb4eb5b123dd43b39689bb"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/98e3a7fc-d839-48cb-90e0-56da8abe6b90"
@@ -2320,7 +2320,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_0b12d7476ce8544c",
@@ -2379,7 +2379,7 @@
         "Livability Compliance – Vacant Properties, Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_55285864e5e4411a93f58d36543cc7d3"
+        "ev_dcfb424583004ec98314f63cf21e3dcb"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/7fc69179-967d-4408-9b04-3e5a8b49aa7c"
@@ -2413,7 +2413,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_e6cc56dcd8b53007",
@@ -2472,7 +2472,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_c548c9d41f244a2c9ce59bfd1f516d9b"
+        "ev_b5ef34e16e174045a0a04dd2aec1df1f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/6b0c7ed9-d700-43e6-9564-37fa860c1b49"
@@ -2506,7 +2506,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_90653e45477a86d9",
@@ -2565,7 +2565,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_a8231dd351fc42cfad913371fe6553c6"
+        "ev_4ba136bdda4b478cabb884c92a2a4cfb"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/1f434ab2-94f9-4438-904d-58186a11b4ef"
@@ -2599,7 +2599,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_3a7cdd0be3ab79bf",
@@ -2658,7 +2658,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_aeb9a5989f7c41bf9f9d4c5b7b81cdea"
+        "ev_fb3fe3845d344898bace71f1c3030db2"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/61fdea05-729b-4d5d-9459-88f55e6d1349"
@@ -2692,7 +2692,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_49391016816efbbd",
@@ -2751,7 +2751,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_dcbcbae1fd834f40894635b892097948"
+        "ev_3bf05f8e61c34601818566155e784587"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/9aa3d92d-1942-4f43-980a-3f8fde899475"
@@ -2785,7 +2785,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_2583a4df8da98b16",
@@ -2832,7 +2832,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_6cb420f2a8b545ee81a2574719240c94"
+        "ev_b8f905d0d4824b13b2652ee4661842da"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/03cb4afa-9883-4757-bf73-8bdfc387a4ff"
@@ -2864,7 +2864,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_b6e3408d2a4aca29",
@@ -2923,7 +2923,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_b5b3b759f0484929a7c558100d9ac89a"
+        "ev_eb690a1f0eec47e1b8d603401d1a6ed9"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/d51e95c4-47e1-47a0-b5e1-42f3e5d0c953"
@@ -2957,7 +2957,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_f2b89223c9d17faa",
@@ -3016,7 +3016,7 @@
         "Livability Compliance – Vacant Properties, Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_32b003a3077d413b8b43b996ec57504f"
+        "ev_813cee1c61f64c08aac4ea1bb50364e1"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/21320b46-52c4-4ef9-b176-e7ea7a85a333"
@@ -3050,7 +3050,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_47b65b8f2bda82c2",
@@ -3109,7 +3109,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_2fff5302313d4c5ea7275c7b1a49001f"
+        "ev_1a85df6b23ec47b9bab382afeb49058a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/75052e03-69e6-453a-9ecc-aab3c25a542e"
@@ -3143,7 +3143,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_deb2366032312032",
@@ -3202,7 +3202,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_197cdeccafcc4e7ab4732b74b37fc536"
+        "ev_f86b70c34d7e4c8fb70130c2c4087b70"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/3047bfb0-40aa-4e80-a4ff-4129f120bbea"
@@ -3236,7 +3236,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_043f205b1e4a0946",
@@ -3295,7 +3295,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_f55a4c3f70b84527a288f61a57ad6b25"
+        "ev_15e68b9b147745629a6cb91cba38a3e9"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/710b0c95-af31-45df-8520-2367deb32285"
@@ -3329,7 +3329,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_b3b81a8c5d9d69b6",
@@ -3388,7 +3388,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_f4730a4148554bdb98109bdbf0221621"
+        "ev_93cc776ed52a4d54b8cad989901e7160"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/d9c42182-e49d-44b8-96af-94ba50361d81"
@@ -3422,7 +3422,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_e941657eb47b80c7",
@@ -3469,7 +3469,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_db87abf0e920432caac077a3b768cca9"
+        "ev_f63fefac928044dd96955b00c7b93768"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/4f2d9328-b7ba-4abc-9f22-cda58ecba4d0"
@@ -3501,7 +3501,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_7e16afd811c17857",
@@ -3548,7 +3548,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_26f81f4431f74b6d94d9e34ebb6cf18f"
+        "ev_eb75f87ebdf446f2a8c379a004093f9a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/23e43373-50b9-4df5-916a-bcca4a6d981d"
@@ -3580,7 +3580,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_3134fde8bb6f4673",
@@ -3639,7 +3639,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_8c1387f5ca0f4b72891906cba4b34e57"
+        "ev_683c7dd21c3e4b64830f21bdce019206"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/52692b25-071e-4592-9081-cd905f495300"
@@ -3673,7 +3673,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_fd2f935c357b8f6d",
@@ -3732,7 +3732,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_256fb2cb1225438ab57bf1de7cf6b85c"
+        "ev_d321d46ddb954240957a15ac9814524f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/4d47fff9-125b-45dc-a077-a57d4c48240d"
@@ -3766,7 +3766,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_572bf825fc8d8303",
@@ -3825,7 +3825,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_19dee2300b0e4884a7605d9a7c3c7113"
+        "ev_23632616409a43dcb6bdf15b9455e5dc"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/3a383073-0908-4b4e-b133-91aa5dc5e8e3"
@@ -3859,7 +3859,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_2804eff81011474b",
@@ -3918,7 +3918,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_332d5ee54bd54fe9969568406259b33f"
+        "ev_e4d5f39d49624d0b87f21e3c243dde60"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/1f55981a-6359-424c-850f-f3c49bc7a1d0"
@@ -3952,7 +3952,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_688a6581fdc337ab",
@@ -4011,7 +4011,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_5132f6663fe04b20b0e1289f331b585c"
+        "ev_5944e6207ac64b8fa6cb942fc82d47e8"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/9621d821-1d01-434f-9665-866ff0719aec"
@@ -4045,7 +4045,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_28d08f9917660c31",
@@ -4104,7 +4104,7 @@
         "Livability Compliance – Vacant Properties, Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_4146cccaa7574c7ea132e76ec353cb8d"
+        "ev_88e608f8fa824a4c865c1130869dbc07"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/09e123a6-dffa-4d11-b0aa-741931fe4050"
@@ -4138,7 +4138,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_aec38a4c47f99882",
@@ -4197,7 +4197,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_959e992bcab24ed98ba8d1b9520b82e7"
+        "ev_2d12cf91c37e4092a3938180bf565375"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/99ea31ed-2e49-403f-814b-50880d7518f8"
@@ -4231,7 +4231,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_867afe7eaf1348be",
@@ -4290,7 +4290,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_6df04e77b0e640d6950a6f70096a5283"
+        "ev_322e6004c571458b85ff6c135d23f642"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/1f097eea-3e22-413d-9ee0-868896469b52"
@@ -4324,7 +4324,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_be31214468fc40d8",
@@ -4371,7 +4371,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_9dfbd395e42445a8be23b1e649e326b9"
+        "ev_c27deb4a7c294679854e3c911e342f20"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/602a6fc1-8c64-4891-9138-66d25f50b452"
@@ -4403,7 +4403,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_683da2bb166efbc6",
@@ -4462,7 +4462,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_40ffaea78fd947488dcc3e76f2c2b8f8"
+        "ev_95141f2e10ba41e590bbc72d92fa4223"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/527e39e6-27b7-40d1-a65e-80472539f918"
@@ -4496,7 +4496,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_bde1c7785c99cada",
@@ -4555,7 +4555,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_6d1126fdb14b45e2b39171211e610673"
+        "ev_f898a298be8349039b602fc4df6bed35"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/8efe735f-68db-47ad-a417-01cc52b50d0d"
@@ -4589,7 +4589,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_a9e3651ce4a6524c",
@@ -4648,7 +4648,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_8cb93aacaa1442bd8e17ce40b7e1f456"
+        "ev_bf77d181045b43709ae370d977b9161a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/9df9f018-309b-4261-917f-b4b1cb95983d"
@@ -4682,7 +4682,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_cf0ca62c5060adca",
@@ -4741,7 +4741,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_6d48c102ed1d4587ac753f41e344be49"
+        "ev_f5109a9c031d4a0094dfddc705d0082f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/55849c52-cd2e-43d0-82d7-272ca5de29f3"
@@ -4775,7 +4775,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_3276478e5a4592c9",
@@ -4834,7 +4834,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_28b6b90743a0483593294e748780bba6"
+        "ev_95e76d10c43d42beb24080ba101071d1"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/e1195ff1-2d08-4301-8697-88c99d1facc4"
@@ -4868,7 +4868,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_ba1d8374a134f109",
@@ -4927,7 +4927,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_79a0accb46704c229f5466848aaee915"
+        "ev_e6ca135ddb694c7ba45aadbd56dbe53a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/d21ab43f-ac51-442a-b52c-d98b7603c638"
@@ -4961,7 +4961,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_10c412196cc9efe2",
@@ -5020,7 +5020,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_2df6b1f400da4c958ca2f975634c26d3"
+        "ev_21f04e698337482fb899d948fc5b2dd2"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/f9164139-5b08-4209-839b-42c37f4b9ce6"
@@ -5054,7 +5054,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_7a58a7d978ee749a",
@@ -5113,7 +5113,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_44642e973df04cbb9b08e6bf9c0364c7"
+        "ev_ec9642c39fe5456fa36d4081dd350237"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/2247fdcb-0d63-4693-94e5-183f5708d73c"
@@ -5147,7 +5147,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_801d2a7e84b6b996",
@@ -5206,7 +5206,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_96977639137844808a53d8cd2a4dacb1"
+        "ev_0f53ee139e3747c19fde8fe6710698d1"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/0547a103-5489-4060-85e6-18fea5846fa2"
@@ -5240,7 +5240,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_8bc1a3dc83a4c46d",
@@ -5299,7 +5299,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_0d0a350d685045a18f85f3c3b2c73fe6"
+        "ev_f7569b62f9de42a391317964a535f6b0"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/888aea91-6a57-4a53-a639-26a6587871d4"
@@ -5333,7 +5333,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_539923a2d8a3dd6e",
@@ -5392,7 +5392,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_19149749f8994d159b910c54b0283717"
+        "ev_0772419e11b94e8da2267b194f9201f0"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/538e982f-eb8c-4b34-8a01-0820eabd7f3a"
@@ -5426,7 +5426,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_701da504a2e381df",
@@ -5485,7 +5485,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_52a4ba391f51492e871fc7a32dd00cfb"
+        "ev_c3b17258a3e74ae4b7b830ba22c1353f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/b810afca-e67b-4dab-921d-1a4a75df7c93"
@@ -5519,7 +5519,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_1ca648e1b76604ad",
@@ -5578,7 +5578,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_c24dfba7132543ceb98619f97ca4080d"
+        "ev_e7c276878318484e99b80e80044284d3"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/c405ec0f-989b-49f5-9db4-6d072b3a1e9b"
@@ -5612,7 +5612,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_12d08d5bf0da2563",
@@ -5659,7 +5659,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_791227cd3e0241f98697c1611e2c92ad"
+        "ev_5b2ed3b961594458adc435213cb42c29"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/6d5953e1-a3b5-4dca-90b9-15e3b65f20af"
@@ -5691,7 +5691,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_c14f9cd7175d160f",
@@ -5750,7 +5750,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_f8411b745e254b5ab43d0d806451aaba"
+        "ev_d780a974efc9486d9798431f5c58cf0a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/606221ac-a885-4f1c-b77c-42bf25a429bc"
@@ -5784,7 +5784,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_fc119b6403a6a370",
@@ -5843,7 +5843,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_8f09733350db42e0876572c8cfe0587f"
+        "ev_94204558f41c4defb403391ca0a22d12"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/dbc8688b-c9dc-4085-b03a-86baf6b2fad9"
@@ -5877,7 +5877,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_120e7bb24864588a",
@@ -5936,7 +5936,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_f6b7ae9a9d0a4b129c1165f44bf39310"
+        "ev_1a1daec15f444098a1c17284aefa9bca"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/addfaf0d-b897-4306-b4a3-dc1d7cf8a5f6"
@@ -5970,7 +5970,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_c6b2f35b57a037ff",
@@ -6029,7 +6029,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_d55e311cf32d49b696d536955ea01f34"
+        "ev_f43b44ce3cb34be2add35440febfb760"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/081c63f6-4ed6-47c3-92fc-b13b97831d69"
@@ -6063,7 +6063,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_70b79d8a4b9218f2",
@@ -6122,7 +6122,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_6f40fda5ac904bc283a3fb7a7603782e"
+        "ev_676002676e4e4a279afdaa2ad0d5c38a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/87b910b1-cf2b-43a5-a4c7-30342ac54101"
@@ -6156,7 +6156,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_9abcdc2651080fa3",
@@ -6215,7 +6215,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_84ef6fa503844a6c85bf0c0338bae67b"
+        "ev_0dfe8f2e09104d18934c8764b76a982b"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/702a39c7-7379-454f-8ce8-26bd49b49885"
@@ -6249,7 +6249,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_5a42eaf75f499c9c",
@@ -6308,7 +6308,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_95a56a4b2e414a9d995724aa3fb632d9"
+        "ev_15185a027a66418cb8d5aee94c79bcb6"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/32a25eb5-0238-4a67-a27c-fc2e86ef921c"
@@ -6342,7 +6342,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_d821348a76743ef2",
@@ -6401,7 +6401,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_d84ae49325b14afaa3b191cf38ea54e4"
+        "ev_af586a8770154bbea5e84bd0cfbb9c0d"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/0b61bc3d-b088-4465-9fe6-2c9ccfb8c997"
@@ -6435,7 +6435,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_d9f86430a594cd4a",
@@ -6494,7 +6494,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_24375427d6e04b7092e56aa4c873a720"
+        "ev_95a3781a060f42e9bdd20409c33ff180"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/cde81766-0ed1-4de0-a387-dc1c3e242aa5"
@@ -6528,7 +6528,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_b34a664413f22067",
@@ -6587,7 +6587,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_3041789fcf67424f83ebff4f6491f52b"
+        "ev_6598e187aa6e4c8aa9fd2e40b98131c9"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/e9f61478-5929-43d9-b5ee-9feac44aa965"
@@ -6621,7 +6621,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_d663ea0322d670e7",
@@ -6680,7 +6680,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_26c0763cffa64e1992818e76e9271a9e"
+        "ev_1726e7a0d01a4e5eaee48db1e1d9c3de"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/951be664-ce8b-4914-a80d-534c2531cb79"
@@ -6714,7 +6714,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_ec338265569af28f",
@@ -6773,7 +6773,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_27e7ff70cd0f416f98f7794a277b00bd"
+        "ev_4e89b47f9b94450f8d64f9f5c51ba7f1"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/d1d6054d-4509-44a9-aa52-8e53dffbe95d"
@@ -6807,7 +6807,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_d8d2fa786414543e",
@@ -6866,7 +6866,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_86c0df039ff6403f9308547146e51f90"
+        "ev_f6b2262ee8cd47d88b92eb511e125d41"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/162f5a70-7bbf-4f38-9a2c-0e84b270048e"
@@ -6900,7 +6900,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_ca78cae56a2a3c23",
@@ -6959,7 +6959,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_2e21eec186e14298a306044e834c236d"
+        "ev_307e47caab314fbf97150275e2fceb59"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/e22c238e-3770-44de-81a9-f16328a2caab"
@@ -6993,7 +6993,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_f72c71a6d53a518a",
@@ -7052,7 +7052,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_cde1f0adb9c0400fb6bdc47c9e174818"
+        "ev_ef3a31152cb74cc296d48b22413878f3"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/ab989255-7dbf-441f-b6aa-c96489db0fc3"
@@ -7086,7 +7086,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_31d5797dbf3618ad",
@@ -7145,7 +7145,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_e3204e040d8f4946bb8216f86b4b4a4a"
+        "ev_65ba1bfc34234789808473c0cfa7aef5"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/c2802792-9746-40f7-816f-beccc39b10a5"
@@ -7179,7 +7179,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_c25191773e015be3",
@@ -7238,7 +7238,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_79efd0111a8c44b29c443eda31d6315b"
+        "ev_6537ff7f586b4569893d962787c44133"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/9acd0392-b428-4833-8d14-4500a6f009a2"
@@ -7272,7 +7272,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_7f396d8a48afa52e",
@@ -7331,7 +7331,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_0d56728064b749e9822ae6e0683a489b"
+        "ev_4342841857274205a01123623a0bf92b"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/0f628146-1d18-4a8d-9c00-0bd8f537f90b"
@@ -7365,7 +7365,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_e7a08276e5553fa2",
@@ -7424,7 +7424,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_9d158ae2534e4365b8b319097ab51648"
+        "ev_58367151458243528ff7109f01221632"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/d0575594-842a-4bd0-a120-a30aa11d9f10"
@@ -7458,7 +7458,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_09dae57b537669b9",
@@ -7517,7 +7517,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_f2af5a22f6ec4771a696990e62959cff"
+        "ev_965597ddcad041ef9f1bff43907584cb"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/5629cb7a-b02e-4770-965a-953cc103469d"
@@ -7551,7 +7551,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_dc921a9387f01506",
@@ -7610,7 +7610,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_11f8afce0ba14271806094c58a537f6c"
+        "ev_12d0e32718484d73822110533a0ae55a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/8417c8d0-b421-4068-bfea-982781267347"
@@ -7644,7 +7644,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_59457a46728078c9",
@@ -7703,7 +7703,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_240f542ed2a042aa957ef40d7c7afea1"
+        "ev_3c6c432bab6140b8ac51eb63b5aca9a0"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/ef57744f-7b71-41c2-81ee-58bc7c36ebf9"
@@ -7737,7 +7737,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_48e64e56a824cd9a",
@@ -7796,7 +7796,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_084a7095d24c4cc1906c889bdfaeae42"
+        "ev_cf9bab9390b442c694c05ad9b396acbb"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/2e44c3cb-8d1f-4db4-befd-cb3c5d1a4746"
@@ -7830,7 +7830,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_9675b71909a94df8",
@@ -7889,7 +7889,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_1808b8fe3d20475ebd1e1609df268029"
+        "ev_224f7c1af4ab4a9bb9d4002bbb920c63"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/3252819a-c288-4adf-b8e4-f4e6a5df37f8"
@@ -7923,7 +7923,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_b48f713fa130fe7a",
@@ -7982,7 +7982,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_153738676dac431f9dd4cc797d8908e6"
+        "ev_999ca730c8ee42838bec7271e736c768"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/6c75beed-2fd2-4b0b-86b3-362b0a35a03d"
@@ -8016,7 +8016,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_16aa8e037ffd3236",
@@ -8075,7 +8075,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_51b8976021294cbe8dd2019ccf0c63b5"
+        "ev_4b8f073bcd9f4191973857783233ddbe"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/d0b0064e-9d2e-4c95-b2c0-73ea2783c0b1"
@@ -8109,7 +8109,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_00384ba1cfd30817",
@@ -8168,7 +8168,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_bdbcd0fc2863411290d3a1cef8defb8d"
+        "ev_918637e7c0cc491db5828f529c5bed8f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/5b7ddb98-facf-4dd7-baed-8f835914b2e9"
@@ -8202,7 +8202,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_e29751b7fca27d45",
@@ -8261,7 +8261,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_c09f92ee541f428f886ea214888234b0"
+        "ev_605d62bb61f04449b0cb4f0c52da5d88"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/5fc3b978-9b79-4a1a-96d6-585719fc5634"
@@ -8295,7 +8295,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_6a268825735e9b24",
@@ -8354,7 +8354,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_a2f759f26bf24122a0e38a10f7bf4597"
+        "ev_66e49afeb0c242c08c88596bd733aec7"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/0560381a-1619-42dc-b71a-0c7d5cf00ea5"
@@ -8388,7 +8388,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_37df6a9b089923a0",
@@ -8447,7 +8447,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_771df2c5ebd1481f8268696010f0bee4"
+        "ev_8749cf1d816f4713a8edeb75d7f8b0f1"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/adb1eda7-e950-48de-910a-6176afa4f630"
@@ -8481,7 +8481,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_a4482b157baa2427",
@@ -8540,7 +8540,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_5733a2222a2949788abd46b2b648ef46"
+        "ev_ef54c265555149e2b44f4c72ccca8663"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/7ccd7c3f-40fc-4c97-b324-9e5e53b7dbe7"
@@ -8574,7 +8574,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_31f1d85e14d05d4a",
@@ -8633,7 +8633,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_9a3fc7345e69451883d5ecc57382bb5c"
+        "ev_f043911025ce4185942db202988eb64f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/4f981883-35d9-4b55-9c00-ecc6dcc8edf6"
@@ -8667,7 +8667,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_1dc7e955c5551771",
@@ -8726,7 +8726,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_37f56bb57a27456f9bb2914512c75a01"
+        "ev_fe461c55c96749a29fad765fd403cf5e"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/4c45357e-60c2-4ca8-8f18-2446d7562755"
@@ -8760,7 +8760,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_c7e56d5787bebd26",
@@ -8819,7 +8819,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_d18195d3946147b7aa52714b86afad6c"
+        "ev_2065407969a4468c8ec18656568ad156"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/a277e407-32ea-46bb-bf50-f90bb706bd39"
@@ -8853,7 +8853,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_14b1b60effef6b27",
@@ -8912,7 +8912,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_108e61e022444df0848802f77fd2d110"
+        "ev_518fe3d215794f4688917e8524b4f754"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/97f95adb-440b-410a-b467-65e733c9bf0d"
@@ -8946,7 +8946,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_80f50b6f2ed49646",
@@ -9005,7 +9005,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_25119b196d634628a2d7ae82142cff5a"
+        "ev_6ff7b39ac9f7424e8982e1ba3fbe6ec0"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/00931ce8-a949-428b-8c33-8d9bf1f6d119"
@@ -9039,7 +9039,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_5fb1bb16aa531aaf",
@@ -9098,7 +9098,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_fd811194d3244772901ed41f3cf41381"
+        "ev_dea88ac6e5ba451c9eaedcb8c546d142"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/a295d436-c5c6-4f40-9045-9a8a91af9cb4"
@@ -9132,7 +9132,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_9f628eeb75bc1c6f",
@@ -9191,7 +9191,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_94a1a0d5fd2d405488d060d8e479703c"
+        "ev_feafca2fa6024d72a514914a29e77911"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/916042d0-f6e4-4c7e-9574-a28f930101a5"
@@ -9225,7 +9225,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_19b5986dd296e20c",
@@ -9284,7 +9284,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_8ca2f711e5b24ac2a06f793f0a5c802c"
+        "ev_e370facceb874e8991d336e46eda6b04"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/ff13a8d0-ad16-44e5-a9e5-43721ab773ba"
@@ -9318,7 +9318,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_4951afa787767dac",
@@ -9377,7 +9377,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_2b38896592ba4be8a6ee0c0b550358c5"
+        "ev_f05140d834da48d6b8eba7fdf45b947a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/9b88f8fe-703f-4031-86d1-9006b4b5d6cb"
@@ -9411,7 +9411,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_54661bbdfd22ba46",
@@ -9470,7 +9470,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_b8f32b5944fb4bf19b668bb840556c15"
+        "ev_5a3da435da3343a4af262bfb1bf0c778"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/18674831-9c85-4f42-847b-1768b1c5254b"
@@ -9504,7 +9504,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_85b3e039e476b3d9",
@@ -9563,7 +9563,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_5e55ea0996e44a4abb4222c09b57aa22"
+        "ev_ff37606ad7e3486e9a241547dc625f2e"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/fd7fe565-00b6-4351-bbc2-d8f2ad8deb47"
@@ -9597,7 +9597,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_b7efd70c7bca8136",
@@ -9656,7 +9656,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_e958b562c7f840e19e7be498b5cb0af8"
+        "ev_7219f2b8cdb0477a87d14fd0357b97a3"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/a261e0e6-b960-403a-9ad9-0ffab137f931"
@@ -9690,7 +9690,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_87d64f0671498e52",
@@ -9749,7 +9749,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_55acb7d18b0a4cd0914bb3863aefa49b"
+        "ev_0f394af2cb9c49b58b8f80ec54bd23f7"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/16a8a06c-23dc-42e6-841b-b2365ccdc3b0"
@@ -9783,7 +9783,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_585f7bd6b4876993",
@@ -9842,7 +9842,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_1fb9afcb9ac0497880b1b3d5167179b7"
+        "ev_8baf798604734945b12cb48cb5343316"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/59eed872-8ddb-46d7-8a37-f101c2edb721"
@@ -9876,7 +9876,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_a53dcf2c4d164114",
@@ -9935,7 +9935,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_bbfb6d9541df47d9a753ed9ea69ca46e"
+        "ev_a77a874ddfc645f881b8e0b0a95ae4be"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/360865cc-362c-4530-b696-2bd36dd514ae"
@@ -9969,7 +9969,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_9f7474837d7fe33f",
@@ -10028,7 +10028,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_10eb0cfc23fd4640834921821e364a49"
+        "ev_81953ab6d4894f13baed21e657c26c4f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/12053eb1-98b9-459b-bc69-8f7174e06051"
@@ -10062,7 +10062,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_61c61d31faa3ef0b",
@@ -10121,7 +10121,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_3f2e05a71b0245dc87e1dcf0ae16d7b6"
+        "ev_24580d8adbae4a6dae3cbabf1c42eb0f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/af075f35-297f-40be-bd76-84cd9b1d8fef"
@@ -10155,7 +10155,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_56e6b08cd1dbb43c",
@@ -10214,7 +10214,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_b57077b72c394d4fa0bb929bd733b4d2"
+        "ev_a502ae4ea1584197bcf99f1919f6bc7e"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/77085b87-7e58-4951-9b91-448f41375d50"
@@ -10248,7 +10248,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_a2cb4b83607dee92",
@@ -10307,7 +10307,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_1e12fbb49c4d4a8d800b835391c88907"
+        "ev_ba1d71a5676840bb9b35d4bba312103e"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/7acb5fe8-6afe-4f39-8971-2f45acfe5575"
@@ -10341,7 +10341,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_363b5f8637bcb40c",
@@ -10400,7 +10400,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_82aa11ea4dd041af9528192c6e9229ad"
+        "ev_7d7ff0d9ce4345359faf031372e50eea"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/2295fd1d-baa3-450b-943b-6951bf099b26"
@@ -10434,7 +10434,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_0e81e837de4b89fc",
@@ -10493,7 +10493,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_f3c0b24289264dc3883d56c41f965639"
+        "ev_7984aff2c87e4f30a8855a0749c43f5c"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/91643e12-9afe-4b06-9bf5-3f0729e369b4"
@@ -10527,7 +10527,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_3f0ff48d53766eb4",
@@ -10586,7 +10586,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_e4e8b551877645a68ce07d7defda3c98"
+        "ev_4eebfea609974a348d67f2b29055799b"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/fecc8100-3ca9-4556-97f3-52b0e3a6717e"
@@ -10620,7 +10620,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_32b0c26aaf8d6d67",
@@ -10679,7 +10679,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_3a2af1c07c5d4e66aca70d261beb9283"
+        "ev_2307b50c5aed47988395c467da0d4eff"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/5ed12bc4-1c64-4a49-93fd-86f6b0466d1e"
@@ -10713,7 +10713,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_37e9d607de77d9a2",
@@ -10772,7 +10772,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_e278160903224288ba116a323437461d"
+        "ev_65000de2e20843b5b1460995e57986a3"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/61f9509b-fe46-4d3c-a9bf-a887b7cd1a42"
@@ -10806,7 +10806,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_bc3af580a29d1ede",
@@ -10865,7 +10865,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_e9e6e91ca7b1423ab7d77d125cc9fd94"
+        "ev_320aec7e8bba4592b07b6bef90558bca"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/3424fb02-7550-4376-a657-fe184c240324"
@@ -10899,7 +10899,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_4871dce641c617c2",
@@ -10958,7 +10958,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_5e6b539d81774451995855500b9c1c86"
+        "ev_d1e3aa1b51f5483d8cffc7a1bf334d1a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/69b48e05-f654-4ecf-9152-3274ea83ab87"
@@ -10992,7 +10992,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_c82c183d0cd85f59",
@@ -11051,7 +11051,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_3c6615f450164a90a76104e0b3d4b84c"
+        "ev_39d2d31d00c54740893e5bc4d674f226"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/f27b874a-de32-4195-97d4-11a111e9045a"
@@ -11085,7 +11085,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_cb8648fcbcc355ae",
@@ -11144,7 +11144,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_71b17e68fcb5450aabb6cdc36c3d8739"
+        "ev_22937cce18f7478db40ec475475c2993"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/6fab5aab-8caf-44cc-b82c-3000882835b5"
@@ -11178,7 +11178,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_6bab3854a90868a3",
@@ -11237,7 +11237,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_1cee47cbda0d4bbb82c9b43ff97b7443"
+        "ev_21fddd0e7c054235a256298493f943eb"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/05baacbf-5d3d-487c-9702-825a77b4cb15"
@@ -11271,7 +11271,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_6833f9f32228eeda",
@@ -11330,7 +11330,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_d7ec7c30f0d8490786b324ab3456ab0d"
+        "ev_315e040c32df4d7da52232a20d7a9601"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/5eb0ec9a-b78f-4e76-aa02-72a5a8537f80"
@@ -11364,7 +11364,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_726714d0f8e2e04e",
@@ -11423,7 +11423,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_aba0d72679ea429ba94a59d65d7b771c"
+        "ev_86562918d4e14c34b0a90bc160cef464"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/3c8d9050-0ca3-4181-8173-0b2907b8297d"
@@ -11457,7 +11457,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_59473843834d6b03",
@@ -11516,7 +11516,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_fbb7a3851fc34530b44a538a2f83ee38"
+        "ev_4791b0bd9e1e46f6babfa2d9e6366a2f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/38fb4323-a173-4423-9e14-5637c793a572"
@@ -11550,7 +11550,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_dd8bebea396e8954",
@@ -11609,7 +11609,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_37fb0300b11b440c819f22fc231326a3"
+        "ev_373980ce095b419c8075d2dd1de15dd5"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/a458e0b6-0b7c-4506-883a-c725c992207a"
@@ -11643,7 +11643,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_c4205df0b54c88a2",
@@ -11702,7 +11702,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_edd02034d90e4220ad02e4dfadbb7071"
+        "ev_5aeeabe51f2747fd8de6990589c2b949"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/00fc5a3f-f5ea-4ca4-9cb4-61c484a77683"
@@ -11736,7 +11736,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_933929b00b0530ba",
@@ -11795,7 +11795,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_ef9e8d4cabb14a88afac78c44218912b"
+        "ev_25ca7a5d4fe1432391bf15be71613eca"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/ed151283-7383-4cad-9f4a-2019f9a1d8ae"
@@ -11829,7 +11829,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_2597ef3c932e6c5d",
@@ -11888,7 +11888,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_7e9873c519b243debdbae64377d57159"
+        "ev_a51862563387499591af4b82384efe10"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/9931899e-19b1-462f-90a0-5f5791b80125"
@@ -11922,7 +11922,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_7faa664e0d7fb833",
@@ -11981,7 +11981,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_4b90f4e8f02b4dd0aafdde6aba3118ae"
+        "ev_be4750d3991b46759c6e0a654db3118b"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/aa4ada4c-c156-456b-9e8b-cb09c11a45cf"
@@ -12015,7 +12015,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_5c61a25f9ccd5322",
@@ -12074,7 +12074,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_a7b065106a734407acd9a3d45f4bfea3"
+        "ev_f712a1785e1a431c96c14cfa21375ad7"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/11e8289f-0be3-48eb-b39b-f6ed167deb8f"
@@ -12108,7 +12108,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_6248ed0880478e71",
@@ -12167,7 +12167,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_18a2e91e4c7b471c949ffb71a90950a4"
+        "ev_b95c750bf085464899727edfe095d835"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/92c138d8-8934-4d10-85d1-ef2ddbcb7cae"
@@ -12201,7 +12201,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_3e101def3fe7ad69",
@@ -12260,7 +12260,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_68cb7510a1474688b16d926a7956cc6d"
+        "ev_07c10849c1844f75ad74f435023bf73e"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/997acd5d-175a-4530-a28c-585d1c36c495"
@@ -12294,7 +12294,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_160aff34f04d7dc9",
@@ -12353,7 +12353,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_faa14cb7ea2542afa26e0f9e887eb719"
+        "ev_675ba380af46490ab912a3f80a1046d5"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/9969f020-d5af-4fb7-8dac-fa0c02c793cb"
@@ -12387,7 +12387,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_3d7cf1ac8be3329f",
@@ -12446,7 +12446,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_68619a6accf34554b15b6c80cec3f239"
+        "ev_18afd5763dd24e25a725b98e23ca661f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/23317b11-f7ea-48d8-bc5d-11b86cf5ca4c"
@@ -12480,7 +12480,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_c052ecd1bad6e190",
@@ -12539,7 +12539,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_75e41127d7254a95b1cae2fff9b022b1"
+        "ev_5b2fb11fdc7e4b76a2272d23c90d7742"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/eb444aa8-a3db-4ba4-8ab5-84865eea79e5"
@@ -12573,7 +12573,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_f64bd733778c31ee",
@@ -12632,7 +12632,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_d3fea4f5fad74deeb1c7889589fd442e"
+        "ev_ea8b4df7377e441d8f96a939f3fef680"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/34506a66-5d16-4eec-b1b5-61245b39dc77"
@@ -12666,7 +12666,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_54baa994e4307909",
@@ -12725,7 +12725,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_f941e6b2559d4278974bef4665f19884"
+        "ev_1bf04c622a2449cabf5b3a52ba5cc5e0"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/15683c63-f8de-409d-8c07-a1afb03f8e00"
@@ -12759,7 +12759,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_291561f10c68936f",
@@ -12818,7 +12818,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_8260d9fc600a4d3f9e1371fe8e9fdf97"
+        "ev_95c76282fe344fbcaed59dc8bb327f90"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/d76ddb5f-104f-4908-bf1d-8112afafcdce"
@@ -12852,7 +12852,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_a6b6237154e7ec35",
@@ -12911,7 +12911,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_1ac0d9d802f2468dbc1bf5778d335388"
+        "ev_742c54d44ff64f22874b7f3b86286f33"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/493e6a36-3c91-4207-9588-4fdfef5629c2"
@@ -12945,7 +12945,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_4ef514fe5b5a8eae",
@@ -13004,7 +13004,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_8ae4fe334cf747168c9a2430c78eebda"
+        "ev_5df527d3667245a4980728c1d78aaa25"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/24b76f20-0d08-43ec-9b66-381e87db5f1a"
@@ -13038,7 +13038,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_327e88445e9fd195",
@@ -13097,7 +13097,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_8edbf98ab7b6480ea95a3e1c593b2fb0"
+        "ev_75b4eb9613684367b8efb7a1dc1f99a6"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/36b60b02-f199-4a92-81cb-10e3a72ccd80"
@@ -13131,7 +13131,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_aa12d2eac16ef063",
@@ -13190,7 +13190,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_5193385d1f7844249b259f75dc9db2f7"
+        "ev_9421c7c9a86f4bb9a897dfd52b2cb994"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/9c04ce64-de64-4ccc-a04b-6e6601ae7726"
@@ -13224,7 +13224,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_8bf85db995919db9",
@@ -13283,7 +13283,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_a6fafc7f45c84a9498aea97b2746be16"
+        "ev_4578ce4a6c654cb0b248c96dc84ae89d"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/d2f1595f-4b90-47a9-a79f-ae621ef7bebf"
@@ -13317,7 +13317,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_9dc86d076b52a72b",
@@ -13376,7 +13376,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_94c4268616794a29ab4f3dc5e865c177"
+        "ev_cce57dd04bdc46948aa64b4e9d7961af"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/f6f2d209-a781-46be-b7d8-20a91899c1d9"
@@ -13410,7 +13410,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_d659378ba1358289",
@@ -13469,7 +13469,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_1581376dc6764dfdab3e139bcd87178b"
+        "ev_62c4ea3bba1c42c8b21e2c3526174381"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/1ba6f1a2-c515-4d1c-8246-c495d267886d"
@@ -13503,7 +13503,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_48ee83d59a74f6af",
@@ -13562,7 +13562,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_01bca14e3b06407992e9082328193c91"
+        "ev_183ce02f8c864306ac5b5f1ca9745c80"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/cbdb7565-5a09-46d0-a5f4-40ea09bebd6f"
@@ -13596,7 +13596,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_b3a3d6e40b49a769",
@@ -13655,7 +13655,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_45927d7f671c45d7812de8e9332b4be9"
+        "ev_028cb2f4e47d4d0a95c84936ab158aea"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/67e56668-113c-4265-8edd-4c8b674a7359"
@@ -13689,7 +13689,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_006bf114d0556a14",
@@ -13748,7 +13748,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_3e153a73d0ea42a4a372b235a448bb32"
+        "ev_27b8bf9ffbee4b8ea8f9ad95aa1badd4"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/f364191b-ac7c-453e-acec-23dd44e54b2e"
@@ -13782,7 +13782,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_e31ecefdfdf7d507",
@@ -13841,7 +13841,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_0e1cf93e8e6c4c0f9bae9d4791461ef8"
+        "ev_c1f1840f06074706b72d41c11bf1582e"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/962f357f-c72d-474b-8dd0-85c4b7fcabc8"
@@ -13875,7 +13875,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_39469c3104145378",
@@ -13934,7 +13934,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_e06fdad2f65543c8a439db686dc573d4"
+        "ev_24e6926cd139401d8d2c5dd58fe0c880"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/99ac211a-867c-43f9-8505-be5ff2fdb31e"
@@ -13968,7 +13968,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_76c839a611ed4353",
@@ -14027,7 +14027,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_996d28a7169b4e9186b40fc42512c034"
+        "ev_ea5b6a595cb84970aa09b4c183c95a90"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/31783396-cd70-4c03-9713-626a5997fc49"
@@ -14061,7 +14061,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_c194e2c6d1344172",
@@ -14120,7 +14120,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_6bc62359efed472dba4db80dca4a3bbc"
+        "ev_2b74c9d84b3b4077856efcadf56a1390"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/ea27d505-8abf-453f-9a3f-490643c6900e"
@@ -14154,7 +14154,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_120bdb32197ba275",
@@ -14213,7 +14213,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_25bb2a0b3db2459dbafdba7bc10677b6"
+        "ev_1bd38c5e3dcb47f498b592a11d928115"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/8eb3f31b-f840-4f69-9c49-5d0c3aebbe4b"
@@ -14247,7 +14247,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_702791186c9a0e5d",
@@ -14306,7 +14306,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_c866f340ebf94ba7ba608e46145aed1c"
+        "ev_a019073804c54187aa8b04e04f8bdd19"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/4955c568-a922-433b-8ae6-32da673cdab1"
@@ -14340,7 +14340,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_8a62efa2304a4ea7",
@@ -14399,7 +14399,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_d83b811a2f4d4ee7bdfccb755d9e759f"
+        "ev_d40d15f15346492ab2862e9ceb18427a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/802b1d10-6911-4976-b5c6-3a14cb2f0de8"
@@ -14433,7 +14433,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_db90204f3e9c10ab",
@@ -14492,7 +14492,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_eea87c18b0954620b34e9c0920544054"
+        "ev_06e580e494f342ffbfc89eebe1484227"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/c1139215-7231-4199-9fa0-084a3f04b3dc"
@@ -14526,7 +14526,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_44c10acad4fd9c73",
@@ -14585,7 +14585,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_a87b6b2166354106a62965fde266428b"
+        "ev_b7c0cdb7b6b84ea38dff336050812965"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/9c5e0531-0cb1-4c27-ae5d-6b8435f25932"
@@ -14619,7 +14619,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_5145b565c00c1085",
@@ -14678,7 +14678,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_b5b6198b9e85448c818d65c8e257c867"
+        "ev_88c27bb7f29c44348596cb5cf60075c9"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/c8c255b8-ca6b-403e-a9ed-92444236860c"
@@ -14712,7 +14712,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_449645eccb91eb70",
@@ -14771,7 +14771,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_887dd4586d5247e09f16b0bd3aff5dc0"
+        "ev_be11c915aeec49a49934536de529ebb4"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/ed7ee17d-f5ba-4533-bdc3-b0d21ccfb19d"
@@ -14805,7 +14805,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_b8420503938eaf84",
@@ -14864,7 +14864,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_81d87a124e7d4e48aebcd59c305e8cac"
+        "ev_db308c3f4a504d939cac4c2f10a3056f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/53b38c00-fc5b-488f-bfb0-962f58eebf64"
@@ -14898,7 +14898,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_c5599929c420f5f0",
@@ -14957,7 +14957,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_9fec6bcbbe844ad3b3b958265458f62d"
+        "ev_76e5d2ffb0f846708fc5a2dcb476379c"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/90470c0b-ff51-4c6b-a863-954e9ef8d135"
@@ -14991,7 +14991,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_327fb03fb1301f8a",
@@ -15050,7 +15050,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_2779ad00c09344d7a6ed0145ac3ef95b"
+        "ev_53698cebf37d4ad898bffcba9aad6049"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/edfee5b9-7cc6-41bd-b905-ba083c9360dd"
@@ -15084,7 +15084,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_9a2152c7c8f08b2e",
@@ -15143,7 +15143,7 @@
         "Livability Compliance – Vacant Properties, Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_003e992fdf1842d5a567bb269433fdf6"
+        "ev_12598d950290429c8f3098f609c80ba4"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/6b702428-ec19-465a-afbf-4968f4837369"
@@ -15177,7 +15177,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_b486e12e3f706283",
@@ -15236,7 +15236,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_719a83ebf81b4b869804358a3117826f"
+        "ev_40c02fc2346a47428c07c49e07a3006d"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/a856a8ef-ad14-4b03-81ea-3d0cc92a5db9"
@@ -15270,7 +15270,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_1d4e16ef6275c712",
@@ -15329,7 +15329,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_acfa92675d6e485392e108c58a9dc5a1"
+        "ev_2cf38039cfd14996815c48573210aed1"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/10a9578a-6f25-4589-b05f-6e273a18251f"
@@ -15363,7 +15363,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_bafbf1f4c2396739",
@@ -15422,7 +15422,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_f13e0e54f9f64f15925f16f7befbfcab"
+        "ev_fb99eeeb9f6f45fcbbef76376c751900"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/37264cb2-d092-48f6-9830-e176a3c9b0d4"
@@ -15456,7 +15456,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_05c8afe3c43f64a3",
@@ -15515,7 +15515,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_470f1c198d1040aaaaf7da0431f7b5b4"
+        "ev_86d6ca9a2ea5457f9a5048a443a9de59"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/22161a02-30ce-4588-bf59-46e062e11bd0"
@@ -15549,7 +15549,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_eb2f61945221734c",
@@ -15608,7 +15608,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_1e8af601219b4e819ad85bcc4ace68c6"
+        "ev_77d883c5714c459b89b89c4a6516becf"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/723813b6-107e-45e3-874c-aed809681ef3"
@@ -15642,7 +15642,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_22d31f203aec5f17",
@@ -15701,7 +15701,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_d54390a6efd74131ababe3a7b009270e"
+        "ev_8ed0925b8139493d8221165137139c64"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/af9c197f-c2ff-47e2-ac62-243c4845d9e7"
@@ -15735,7 +15735,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_5458a8088ac5a5d7",
@@ -15794,7 +15794,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_9a796b7e838d421fa841951bc1290618"
+        "ev_a4553d759bb24b8babae3edcf2695a25"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/01ed2cc7-1eba-4942-b0bb-3cc682992561"
@@ -15828,7 +15828,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_b69ee7ef21e0e94a",
@@ -15887,7 +15887,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_32391934e4ac482e810e0a12ba94cbe2"
+        "ev_537e5ddff6434ed5b49345f302d86731"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/94b4e87a-fa08-4bd2-aaff-09cb956eebad"
@@ -15921,7 +15921,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_00f92674e3cd5dd0",
@@ -15980,7 +15980,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_e745350e28874f66a94667d594e8296a"
+        "ev_7493fc804a8f4c5891b1cf3f2afe9fa6"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/e69ce74a-30c6-464c-8cde-a700db7c0612"
@@ -16014,7 +16014,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_b03fcfe8e090822c",
@@ -16073,7 +16073,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_a545566010f4408e8926a608d2771fd0"
+        "ev_80a3ec33cc6747919833c0de7a42c8c5"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/0e4e22ed-d9f7-4df5-9c58-e91f5e7380ec"
@@ -16107,7 +16107,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_bed1da01c887aa02",
@@ -16166,7 +16166,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_bc1fffd1f7ca4956bb0e3fedd552d373"
+        "ev_8c874304f0104c28be0b800901f8ad1c"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/6f05cbff-205e-4fed-bff9-c4b1c7687fc2"
@@ -16200,7 +16200,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_7294aee8a3c45aa5",
@@ -16259,7 +16259,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_78b926c93d384f688b018e93a7630fb0"
+        "ev_aae49551153242a2afe6f998ae7483b1"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/5e9620b7-d529-4a67-9ff4-09c2813b0471"
@@ -16293,7 +16293,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_ec876647abb20671",
@@ -16352,7 +16352,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_dfd64c785d254834a42167d80ed67b58"
+        "ev_d1b3551f3be74f0594d5ba8fafbf5ada"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/3d461b25-d344-47e5-a1f7-7b0fd93cef8e"
@@ -16386,7 +16386,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_d82796fe3edf01f8",
@@ -16445,7 +16445,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_14d349c6255e42ee8339141bb4636785"
+        "ev_a85548aa13514d2f91a81a69a1df2c19"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/12a7ffdc-9c96-4465-baf5-ed6acf52d5e4"
@@ -16479,7 +16479,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_bd617f5c99bdd7be",
@@ -16538,7 +16538,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_4b81c2c3840a4fb480182000282a0e3a"
+        "ev_5bc91a0b47434cfc87ef0a83666e1fec"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/ee75f220-0437-45d8-81d8-e637599e327f"
@@ -16572,7 +16572,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_c08436f1ddf48b96",
@@ -16631,7 +16631,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_3e8b1411f4c548b09b192d94fa9e9771"
+        "ev_8ff91420d85344369f393ed356b47d83"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/e64c7375-c8e1-4fb4-b06f-f3ae9c401ff7"
@@ -16665,7 +16665,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_cc2e769a3c7f0de2",
@@ -16724,7 +16724,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_880fe5e108b54db9aa051b3b8111a8b3"
+        "ev_977fdb1a6a3b47d4a59c4fb1cb0fcaa4"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/6455a6f3-489f-4786-96b4-d42a51bf156d"
@@ -16758,7 +16758,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_ac8d157d26898722",
@@ -16817,7 +16817,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_1606eaf888a243889dc87f8842aa8207"
+        "ev_08c0cf6947db464ebeee17666ed3c64e"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/798d1a74-0a27-4605-b06b-6c7c0fdf7558"
@@ -16851,7 +16851,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_fa4108509e739ff7",
@@ -16910,7 +16910,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_02b12fde045c40299613f1ff43627745"
+        "ev_cb5e1d6f527646c2bf6821ea1b4df8c0"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/60311217-d727-4ebb-a49d-f61e6212f182"
@@ -16944,7 +16944,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_6a36948b11adc8bb",
@@ -17003,7 +17003,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_12f6aac9c9194f05ae82162d3f53bd13"
+        "ev_0aa23a75ba924f91a65640cb76f05215"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/d8fe703e-d944-425f-95e5-a8cbad1d143a"
@@ -17037,7 +17037,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_4a181cf921b412cc",
@@ -17096,7 +17096,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_a180b5b5821d4bfa85b74ac590c340d3"
+        "ev_ca1e73140802400cb9b0ce2b2f51ecf7"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/266917d7-660b-401b-8efc-6ab88eeb8593"
@@ -17130,7 +17130,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_fb007b616776d96b",
@@ -17189,7 +17189,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_ce506e588fcc407b9033241eb5082193"
+        "ev_61afc6ec581640fa855fd267237b0fe7"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/c038e53c-bc7d-4935-9775-d8afaac831e4"
@@ -17223,7 +17223,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_eddcc1bff9c333b8",
@@ -17282,7 +17282,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_42a24411ce50465398ec05d4a37c90a1"
+        "ev_468f5a3f14cd404580f41868ff986718"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/3d10d8fc-8053-48ac-a6ab-be43967e4a00"
@@ -17316,7 +17316,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_ce9d8523c9317d81",
@@ -17375,7 +17375,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_8ef797b757d54d2b87d81910c0445e4b"
+        "ev_5b284245b1ce407796fdc31db2eb8811"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/a3df43b6-867d-412e-9a92-e9078a02bf69"
@@ -17409,7 +17409,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_9afc5361d3a7f68b",
@@ -17468,7 +17468,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_938217571133407ca0bce57ead1bec3d"
+        "ev_37a5071009414e3ea1e65407c11a50b6"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/983a73cb-0517-40e9-8e71-ac64cefaed42"
@@ -17502,7 +17502,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_f5e3ebbe48bb983b",
@@ -17561,7 +17561,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_68fe4bf6a18642179fd6517cd38c4adc"
+        "ev_e40dbe593f8c433d9aa0029cf87d5235"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/d8cfb271-5bff-418d-b82e-6ed00d6029ca"
@@ -17595,7 +17595,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_2cbb58a17b7cc8c0",
@@ -17654,7 +17654,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_47c20339b2784dd7b88ae05a494a079d"
+        "ev_e1fd53883de74979b8f5c4a308096b50"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/edf65860-4e64-488b-a37e-7857bd670728"
@@ -17688,7 +17688,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_db3109eb00551cf2",
@@ -17747,7 +17747,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_27e21c9a21d14b898454e2f1e4579c1f"
+        "ev_c27ba76f88ee4affb46a172db2434cc8"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/891de87f-943d-47cb-b30c-d90ba62432bd"
@@ -17781,7 +17781,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_940786540872d8d6",
@@ -17840,7 +17840,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_6afecb4b070c49eebb84a5a90b1b4552"
+        "ev_9c1a83e7e8294d95a57de8ca06fa3e92"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/16055769-8d83-460d-a9c7-819124c75686"
@@ -17874,7 +17874,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_2254cd1f053609d3",
@@ -17933,7 +17933,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_b36b2ce57f80458c857e7e34191cde71"
+        "ev_07a83d905a7d4e6c9f16c9ae5b9175d1"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/09c6d490-f4c0-45bb-b498-99e2fc3ed296"
@@ -17967,7 +17967,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_098adcd740aff1c7",
@@ -18026,7 +18026,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_f82f1b97afdd433f8b9138594a6d57ca"
+        "ev_5f40033eda55450196b9e339f196ef64"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/9b79e1bd-3be6-43a9-a5bc-1ac8a221128f"
@@ -18060,7 +18060,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_d6b9d60aee90a5aa",
@@ -18119,7 +18119,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_c1526d582228457a911118d02585f067"
+        "ev_8fec9b5afdbc4c61a57f3d4d12bd3e4b"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/95a4b159-cf4d-46bf-bad0-22a8e4644ed7"
@@ -18153,7 +18153,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_1002b098f01059d5",
@@ -18212,7 +18212,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_0d76580d43594c2b8113657fa25e7e04"
+        "ev_c181735f0bc148f9a63450759fb94708"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/f501e28a-0aa3-466d-b2f9-0914201ce2c6"
@@ -18246,7 +18246,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_274875e4044b1496",
@@ -18305,7 +18305,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_d5b5042123a04772af075137463588c8"
+        "ev_4e2e6b4900024202802ca18c70aed65c"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/d32e4c19-d772-4256-b408-0df876c4435e"
@@ -18339,7 +18339,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_214a0449faebb62c",
@@ -18398,7 +18398,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_adad7b6d54594bfe8d15b676fb3d8781"
+        "ev_559ceacce9664bc582fefa338362a74c"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/8904e670-9cb3-4d4c-afa8-e6d52124b5c5"
@@ -18432,7 +18432,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_ca8bcb0e3e57614e",
@@ -18491,7 +18491,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_32dd956d10454e218c62f25cd24c30b7"
+        "ev_a6724444454147079aa0925ffd182c41"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/46f6e960-7129-4d8d-b85f-ab867a57a9a8"
@@ -18525,7 +18525,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_64ecc7ee6154242a",
@@ -18584,7 +18584,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_8b1a3585ff1547d3a20b5c3df035dfbc"
+        "ev_f800c37feb5b48f393de7d8bdb4ab1f9"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/087e76f4-9ecb-49b1-8487-c603ea538cc4"
@@ -18618,7 +18618,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_f975fa32fbc28b32",
@@ -18677,7 +18677,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_be0a196ac9e84b4092a65b69a9ce1d29"
+        "ev_18584ac400fe48aea7756f2bf0f4c5a4"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/b44356d0-eb27-4734-89bd-854d987a4248"
@@ -18711,7 +18711,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_f72693c12464bd56",
@@ -18770,7 +18770,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_73180e5b7836451f8ff0f625cddb6437"
+        "ev_e1982cceceab4d4d817b10b11e1d8cb7"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/0e2e988f-993d-4199-a46b-b4e7de399157"
@@ -18804,7 +18804,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_9b0a34470486afa6",
@@ -18863,7 +18863,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_faf62cd8b4de4e5e804314fafb0e0958"
+        "ev_36488e977cd84867909f8bd5b62eb73c"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/ddd18e47-92b4-47cf-a11a-e6a4202ec1ba"
@@ -18897,7 +18897,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_0c27462960c5d3b8",
@@ -18956,7 +18956,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_9a5f239fddfa4440bc09eabbe3fbbc4b"
+        "ev_b9534427fffc43b1998f32ee429f67a1"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/04b962e8-aaea-42f2-b000-194e1d394caf"
@@ -18990,7 +18990,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_fb58a0b7c888db72",
@@ -19049,7 +19049,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_ee53a2be846d4405a86cdce25004b915"
+        "ev_f48de5451ab34ab2915ab05647cd2d35"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/b3fa6c20-56f2-47ef-96c2-10f76fd5e355"
@@ -19083,7 +19083,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_417e48974d1ff75a",
@@ -19142,7 +19142,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_0a34d62c7c8f45fca2a0f3943e49d9f9"
+        "ev_9366df111e994deeadd849aa2a4cad52"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/096db121-0b59-4afe-8b25-4bafca7190ef"
@@ -19176,7 +19176,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_35baf705beb8291c",
@@ -19235,7 +19235,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_f515cd98c8a74cbe97e883b46ac49280"
+        "ev_1f82f8d5b90a4244b9b786f2f7512485"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/27a30c0c-fb04-49a4-bd7b-c1375c9625fe"
@@ -19269,7 +19269,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_d7edc2d881f1f4d2",
@@ -19328,7 +19328,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_3a5df1332fa941e6a5b863ea3fd9442b"
+        "ev_21a35c77446541d886e47820a4852cc9"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/30043597-6c54-4245-8c23-f2c58f169849"
@@ -19362,7 +19362,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_ccb794e079e778e2",
@@ -19421,7 +19421,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_1e7d6d93b2e2458182584dea2976ed0a"
+        "ev_34bddb4f0a9648849703173b77c74670"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/53fe8310-7755-4ca8-88ad-142fca2641a2"
@@ -19455,7 +19455,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_95f3ea65eb76ed3f",
@@ -19514,7 +19514,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_2361279409b248c9be4821ff9c4fba6d"
+        "ev_d3e3c78b0fe2461390d31191fd882fa4"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/9c716d33-65d6-4a45-9035-016ed4b133f9"
@@ -19548,7 +19548,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_ade67893226dcbb8",
@@ -19607,7 +19607,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_afcf85ef233e464492dbcbb26cb19d77"
+        "ev_07e8b2bd05b544f8bd9fcade52103595"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/e6268c57-0464-43a8-a76a-ed20eb45d2af"
@@ -19641,7 +19641,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_78ce68f0a27c8289",
@@ -19700,7 +19700,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_3a21ce4c347042a6aa2f7f0b77709843"
+        "ev_50ad9e07b9ff4e50bd5a31f773d12bd0"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/decc9645-10bb-42da-bfdb-39b5dcafe266"
@@ -19734,7 +19734,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_9065e1674531b00e",
@@ -19793,7 +19793,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_4dd76f83c8864b81901583386093007f"
+        "ev_0a89146fbe9e4d4a9f21fbc3e9400ff3"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/d3b049f5-6f8e-4244-a3de-b99c1a2ec3a9"
@@ -19827,7 +19827,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_c35f8b76328a37bf",
@@ -19886,7 +19886,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_92741662d71449c98f2f44de222a1f5d"
+        "ev_d59c04e0bf80407aacd40cebcb62246c"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/51acc3c7-76d1-4180-bcc6-eee78165bf76"
@@ -19920,7 +19920,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_07d75c1ba623a9ef",
@@ -19979,7 +19979,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_1cdd861a1c574f71a9214513f21d930d"
+        "ev_b1f6cb8925974b0bb779a4c83d9df1e3"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/01174962-a14a-434e-937c-26b81f0a2fcb"
@@ -20013,7 +20013,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_2e15619263176781",
@@ -20072,7 +20072,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_5a601c9bb4a743ed8c766734f35fc83b"
+        "ev_d40e5fe75dac4fc6af0ea2665c6bf028"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/b7a0e2ec-d0c3-47fe-9473-145bcc451f46"
@@ -20106,7 +20106,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_0be04f8f7e47c941",
@@ -20165,7 +20165,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_c73dd2054a954f468834aa4ae385714b"
+        "ev_a11d32d32cd84a63848b12baa8e7916e"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/120bb05c-5c7e-4e42-b829-d7f3bc9a3827"
@@ -20199,7 +20199,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_2541a5d601cce7d3",
@@ -20258,7 +20258,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_78b67fea660a43238adf888bcb6d3a9b"
+        "ev_e62a43a9916c4589a1bf000bd2f01354"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/48933330-185c-4777-8d88-d525bc84e84e"
@@ -20292,7 +20292,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_bec70d6c2c6168f8",
@@ -20351,7 +20351,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_a8afb79a74b54c3c906613cfaf8330f2"
+        "ev_db17827c89a347efb56ffa61a5b0c9fa"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/886cdcd9-18c3-4522-ac88-880608babec1"
@@ -20385,7 +20385,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_527d7934c89e3a1f",
@@ -20444,7 +20444,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_b5caa32e770d4a8cb4d14755b6513736"
+        "ev_21acae14810e421c891bb535fad471b0"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/66784ed2-39c4-4f83-aa98-535d7cd3be01"
@@ -20478,7 +20478,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_eed88b68201d34fc",
@@ -20537,7 +20537,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_7a743c88256e46d09eb6dea01e032ff9"
+        "ev_df878085dc8449f68636f3a1b80d4e48"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/9394f152-04dc-49e9-bf19-10ebcfb1599a"
@@ -20571,7 +20571,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_1e56bba181261ca2",
@@ -20630,7 +20630,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_9ad57bdf03a745a3bb65c564d7a1379f"
+        "ev_c82a15500273462884c62150f101c9cc"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/88296d6f-01e5-452b-85c7-34aaaee446ed"
@@ -20664,7 +20664,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_484f48efc93402b8",
@@ -20723,7 +20723,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_7529414fa8ea4934a188bb9a08982f27"
+        "ev_7ab62e37b4f749acb414446b1f4e1823"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/beed8bd9-b83b-47ab-bd14-77e5cf46986f"
@@ -20757,7 +20757,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_4b212888e88ae855",
@@ -20816,7 +20816,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_4a8a5aec00594701bb70f2c904364096"
+        "ev_fd74903605234c9691d7551f47c408c0"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/40eb45cc-b3cc-49dd-9a0c-b82393fc6448"
@@ -20850,7 +20850,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_8f29b22567452295",
@@ -20909,7 +20909,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_d9f0a77fb5d64dc1a59e7ccc0e99c820"
+        "ev_a083017dedf840a892d05dc183ad0e0f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/cc21ca70-9bc7-4081-a420-95620b5d5d9b"
@@ -20943,7 +20943,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_058ca2c18f563fc5",
@@ -21002,7 +21002,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_51c70a5a84524ad0ad0e0b9499efce5e"
+        "ev_5db17a100fa74435b37a43f08118412f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/da945cbc-34f1-4225-aaeb-33f2052d7d06"
@@ -21036,7 +21036,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_09823a14807afc56",
@@ -21095,7 +21095,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_972d24d51246412fa3a90de294e8c3a9"
+        "ev_c631006eacf845e88def03e0db6c275c"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/605b9540-4b00-4558-8fae-cf1b0a4a6e1f"
@@ -21129,7 +21129,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_3f44ef51740c7c62",
@@ -21188,7 +21188,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_44ba1f1ac3844ef2b77cd2e653e93d85"
+        "ev_3f387542a1584a90a78b3bb833ccb604"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/5682d151-0e72-40eb-ba55-557c7641500e"
@@ -21222,7 +21222,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_1981fd9943215687",
@@ -21281,7 +21281,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_974a6ccbc47a452fb005c70825d71f34"
+        "ev_6467e1673ae84d8f8c16ffc67094bd82"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/a5a4f801-77e4-4a2f-b129-9b2afa9dc6ba"
@@ -21315,7 +21315,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_72673cb6d9fd344b",
@@ -21374,7 +21374,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_270b09fec5cc49aa873fa0a3602666f7"
+        "ev_59b6c6c9477b4dd8bf223757287d61f2"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/eaa3a335-ef91-4f6d-99b9-88b685613dd0"
@@ -21408,7 +21408,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_30cec99d3d519c92",
@@ -21467,7 +21467,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_910ed70cb4ef42789c573008adb85501"
+        "ev_2ce20ca1709f41a58fb6d919064e3152"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/e9b4a977-7fc6-415d-9103-d332335fcc39"
@@ -21501,7 +21501,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_f03ceb520b8bb77a",
@@ -21560,7 +21560,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_3aef1299cae44ccaa0b21a67d3caf0d3"
+        "ev_1c8d3606dfed4dc0b137f20530be84eb"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/3afdf570-7b15-4880-84ae-d733c1f7a348"
@@ -21594,7 +21594,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_dd5fc2f2720d632d",
@@ -21653,7 +21653,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_f44e7118215d4b9bb726d1d7ffdd1922"
+        "ev_8a902506da5349d898d9b8309afe898a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/72bd38f3-a614-43d5-b028-74d31811caec"
@@ -21687,7 +21687,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_b1853cb72df9d551",
@@ -21746,7 +21746,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_603b385e97314eeb8064b3fb79e98227"
+        "ev_4a69ba537b4f4278adb950e12a8cd237"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/101f3e2a-0324-40c1-a0d4-2dde42c5ccc8"
@@ -21780,7 +21780,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_b449df700cc018b7",
@@ -21839,7 +21839,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_aafde42cadfc415f8cff51b025a8c42b"
+        "ev_f69a953f68de456da37921a32aa72469"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/fb292a2c-9285-4463-b061-120e2aca8d1f"
@@ -21873,7 +21873,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_8f963269b3774db9",
@@ -21932,7 +21932,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_76611451ba0645f7add621fef88b2122"
+        "ev_d6a754e5b5c24b12a4c41e01f0d4265a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/da681b3f-ffcc-4274-8857-22b7ecaf51a8"
@@ -21966,7 +21966,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_75081f07b14a687a",
@@ -22025,7 +22025,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_02d7215cc68d4589bc7e7083674f2d07"
+        "ev_496b2c309ffc43eea5bfeeef078f49f0"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/95b52ae4-e1c6-413a-820a-49378aa3afa1"
@@ -22059,7 +22059,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_b1c46ea88ffa0a72",
@@ -22118,7 +22118,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_c147438246704857847a1ac6b5a9a7cf"
+        "ev_59c8532f337e4451aa6a7e894753275f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/de7a33cf-78e3-4d26-a362-46e03e8e8c43"
@@ -22152,7 +22152,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_a6a74877572b7448",
@@ -22211,7 +22211,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_1513b044c8a34f6fa8f68ae302d55ed0"
+        "ev_f5bcb9abe9cd4221908347c01cdf2318"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/d7d5bccb-9e17-4f77-8ce9-8216c8b7a0ec"
@@ -22245,7 +22245,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_bebb22da38c932ba",
@@ -22304,7 +22304,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_7cd59d5c2d8944628584e4387be23f02"
+        "ev_b7788341566e4d07b06b76f987eeb50d"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/c6c6daac-7368-48de-81b5-35a7eaa1972e"
@@ -22338,7 +22338,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_5daf01b0ab92c7b1",
@@ -22397,7 +22397,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_4576efcead23477d9ed55cf254a070c7"
+        "ev_5d13f74cf3e747e68c4815195c770f13"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/89be2479-6b66-4695-a42a-99cae6a51159"
@@ -22431,7 +22431,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_2023d2e9691c6f92",
@@ -22490,7 +22490,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_5c5bb30b3d45446b942f22bca3384834"
+        "ev_8998aa025fa14dfc8510e19e7cd817d4"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/329bc535-e726-4a08-8600-c721e40c4103"
@@ -22524,7 +22524,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_ebd5e94505052085",
@@ -22583,7 +22583,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_dcd7bc9a03284e1785fe756504aa5520"
+        "ev_9374111a8a194ad59a603ed22722f85a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/9da4b5c3-1701-4408-ae29-88d75cedc6ca"
@@ -22617,7 +22617,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_c027bc17d546560b",
@@ -22676,7 +22676,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_3a8c12ef6df64b8e8e7d87c675a4b55a"
+        "ev_f8f82ea70f3e4d82a6be779212c6cf99"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/45e5b6a3-7ce1-4300-b9f4-3a74992689e9"
@@ -22710,7 +22710,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_5dfe867c30c074d9",
@@ -22769,7 +22769,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_1826c45c26f341c7ac70192b5b264446"
+        "ev_96e3c15393164fffac0b9e4a853eb51f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/c2d5519b-34f5-4628-afe8-6f3b0748f9a9"
@@ -22803,7 +22803,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_45fcf2e1c1b60cd1",
@@ -22862,7 +22862,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_e8694b140ad44b33b0459d7a49b21949"
+        "ev_c1666e6a562a436db758039c40fd1562"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/afd9cebc-6f61-4fc6-b0e3-13b126d47912"
@@ -22896,7 +22896,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_776a28ed7dc10785",
@@ -22955,7 +22955,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_d953ce9d5df94701bcbc2e067ae9d7ad"
+        "ev_fb19da29f5ce447b805bc65dc5a78e5b"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/4ef85506-de7d-4f62-8215-0bb7d9815461"
@@ -22989,7 +22989,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_eb37230809097a19",
@@ -23048,7 +23048,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_11e8654164db4d01a6fa840679b196b9"
+        "ev_67ae6b7792ef4a71a41ad033fc2bef30"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/8e405c14-42df-4b29-88fa-eabbdc30370d"
@@ -23082,7 +23082,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_5951779d607a481a",
@@ -23141,7 +23141,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_f264758287e04b81a9b1da958bb8258b"
+        "ev_ccae6102bda84325857c6d5e2a69f6fa"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/e339475e-68a6-43c5-836a-2150b4c25f06"
@@ -23175,7 +23175,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_b2f328cf57457009",
@@ -23234,7 +23234,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_a739cefb00b840e2becd457fbaaeb62c"
+        "ev_d2ef5347caf74ea498e66bf665ad2ae0"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/5c57a15c-c97b-49df-b05e-2492238cb279"
@@ -23268,7 +23268,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_222a6ea3cc2f12b3",
@@ -23327,7 +23327,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_c7f8da730ee1427e88cd7d78eb0f93c1"
+        "ev_7cce905285e4406db0f47364db2b8341"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/a03a3e7a-bcc8-43c4-9b6e-3c713f5159c1"
@@ -23361,7 +23361,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_c10c48d374064cf1",
@@ -23420,7 +23420,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_565e2f3c30fa44188d4eb48964bf8541"
+        "ev_5b4388636b974d8f8ebe7b459852e3c1"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/c9c2096b-ea52-4750-9477-2b953480ae31"
@@ -23454,7 +23454,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_f1715a755857a2fc",
@@ -23513,7 +23513,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_8be15816ab364b51b69a832cc52e8f24"
+        "ev_a8e0bf39ed4a4a929e5670b0d768c956"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/f654db90-a9ce-4b73-9c33-c010d332d25e"
@@ -23547,7 +23547,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_5c7088478d7adcc4",
@@ -23606,7 +23606,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_6937689a60294aedab87a94f9144d880"
+        "ev_185891693c714ee9858dec2f1e67610f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/ed942820-8d67-432d-bc52-e4b1e3c066df"
@@ -23640,7 +23640,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_96c84cdc0f0c117c",
@@ -23699,7 +23699,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_69900ae4ac394e3b86595a490b2d2efd"
+        "ev_02aa54a6b52b4da580804accbe88f6a4"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/3ef22477-63cc-483f-80d4-27f1c7cfebbd"
@@ -23733,7 +23733,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_a281db46a65d1b8e",
@@ -23792,7 +23792,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_f9b85f8d3af548249cdc01f5bb00d28b"
+        "ev_5593b7ece4344a2f8e8e04e1c746bd92"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/608e56f2-0c13-48a8-98ad-32ccb3c0f406"
@@ -23826,7 +23826,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_5277d0b4c7f9582a",
@@ -23885,7 +23885,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_38cf05a303454a649c682ff639902355"
+        "ev_2cc1e5ef87a84d96a0b81d6819534daf"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/f64488a4-c251-4a4d-8ff7-84b10f8640ee"
@@ -23919,7 +23919,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_2258e13a18fd278b",
@@ -23978,7 +23978,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_937e08e29b344bd5b91020c94c4d2c37"
+        "ev_75a9fd52438e47e682631cc53851804f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/ff5a6a9b-46aa-4539-83e0-a0d7a01921c5"
@@ -24012,7 +24012,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_92011a901ee52bd6",
@@ -24071,7 +24071,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_64e1f0bb090c42d78e6909aa504e5330"
+        "ev_d8cb9b72827a42cc895a0aac0c223f64"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/b509f121-7d1a-41f6-8ecb-2ed97f745b57"
@@ -24105,7 +24105,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_bc9baeec10bd6265",
@@ -24164,7 +24164,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_90491e90fd0d4bd28d981377dcab0e04"
+        "ev_00f812fd19fe45369728bda44a15f6eb"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/3001ee2f-2e40-4567-8181-29f2212a66a8"
@@ -24198,7 +24198,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_851ff1a3323867fe",
@@ -24257,7 +24257,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_365b97e858044fdd8eaf17fb1003e9d5"
+        "ev_bda1d8bda4b2430cb5b4a22b8d89e21e"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/ad08f51a-f65b-406b-9aae-a68cc29db9a9"
@@ -24291,7 +24291,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_1ce89717876808dc",
@@ -24350,7 +24350,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_f628eed3109c4679844efd1e71007e2c"
+        "ev_751aab5f436f40dc80432382fd26b417"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/1d4e86d3-f253-4ebd-a0c3-3ff9b5eb963c"
@@ -24384,7 +24384,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_db9323f59c3c710c",
@@ -24443,7 +24443,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_f955b769f9224dd487795e4c1ca6191d"
+        "ev_6bd9010c5c914964af17a40701c343df"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/8cdf1688-4155-4000-b9b4-63291b5f3188"
@@ -24477,7 +24477,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_0eb50e82b0f7e28f",
@@ -24536,7 +24536,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_a1b25a99397c41b5af8e3a8dd7819ebf"
+        "ev_97edc7f1766947c0ac6952c839d21a18"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/7dd6c6c7-3fa6-4e0a-bb7e-c50dca240c43"
@@ -24570,7 +24570,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_47b1ea42c3be7334",
@@ -24617,7 +24617,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_47d76b6afde1454c97fb5581df5d3bfe"
+        "ev_731a4c72b7dd446b93a0bc8c0332a813"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/0690db28-e78b-4d1e-a477-8fbde53ab834"
@@ -24649,7 +24649,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_944576a4760605f2",
@@ -24708,7 +24708,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_a5679ab20d334e4a897a3488e0c42784"
+        "ev_9e9914f1204b40a191ced31fe97b36bd"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/a7de7e9e-8d54-4046-9d87-89d82283a4ca"
@@ -24742,7 +24742,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_81a2af64b0c06a63",
@@ -24801,7 +24801,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_b0d04273e3f44806b1c591fc7a48198d"
+        "ev_f19a948383994f21b1c3c35f4e01721f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/268ce24d-1b65-4af9-8db4-0ab5a6bfae1f"
@@ -24835,7 +24835,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_41555860178115d3",
@@ -24882,7 +24882,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_63aabb81ddd946deb93621acfff7eafe"
+        "ev_d1a4ddbf662f4ab799d7fc0ac2961c38"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/936bc567-a62c-44ce-a715-9c948045a762"
@@ -24914,7 +24914,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_227f332df9736e70",
@@ -24973,7 +24973,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_45ed5f5b8d1249c9b23274d11471159e"
+        "ev_349ec33ac1024d8692a575a70c02002d"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/127dd876-49c0-4dca-a0f3-74e3a1aef377"
@@ -25007,7 +25007,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_5dc72c6d69f059ae",
@@ -25054,7 +25054,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_e243dfd7b8f849a2bf7fc2f5a2420a59"
+        "ev_8dbb3c664bab4afcba0042c0ed5d5fe1"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/3751030b-325b-430c-9483-45c0c6f8c8df"
@@ -25086,7 +25086,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_7d9277f8fad3cb64",
@@ -25133,7 +25133,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_198735bb50504079b3204240b9f227a0"
+        "ev_59112e519f6a46bdab8c6bd51d53f7f9"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/b4e6c88a-8b1e-4175-bc17-eee5f94ed9ae"
@@ -25165,7 +25165,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_e5443f3eeb94e1f2",
@@ -25224,7 +25224,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_73aa4ef631844d2d964648e1b423079d"
+        "ev_119f07fbe71a43899973375dec93d1e7"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/8b0eb30f-b697-4b4a-aa5d-fd0d7439c585"
@@ -25258,7 +25258,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_17a6091d667bdb22",
@@ -25317,7 +25317,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_c6fb470d937f4da6a28de2d262afb360"
+        "ev_ea29319afbe242f88d4f2fbb47270b15"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/521b8e88-2e87-47f3-8b51-e866bd09da99"
@@ -25351,7 +25351,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_8053e0639862b80e",
@@ -25398,7 +25398,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_7c2f93f84c104e7290623db664dbdcb2"
+        "ev_da2448209400456aa35029cf2262b4e4"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/122e1b48-c432-44d7-a17c-93d3647a3c4a"
@@ -25430,7 +25430,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_22ee34e6811243ef",
@@ -25477,7 +25477,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_6f69ac101ae546c2ad519c560ebaf0cc"
+        "ev_f91334495fb143449078f60fddb2c30d"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/117b196b-f529-47be-b1cb-60b8b761b0c3"
@@ -25509,7 +25509,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_269f0ea9bca0fcc1",
@@ -25556,7 +25556,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_90e2d0c8e5da4525a0a9ca2e4c007f24"
+        "ev_bdf13c9cbeab491a9b5e76b1713b6155"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/1b021c52-d482-432a-8ead-2b20ca142139"
@@ -25588,7 +25588,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_8239ea8d7eb9c37d",
@@ -25635,7 +25635,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_8b9908b93e404b358a27b4dd4e409723"
+        "ev_d0a8f483baf6426985e5cadbf942f4c0"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/4e0a3ac8-9121-42db-94b7-84f29de346f5"
@@ -25667,7 +25667,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_69f59782b3bc1adb",
@@ -25726,7 +25726,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_54d0938d745d416aa4353b2738762595"
+        "ev_ec5045832d2d4898807cafc08af6100b"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/9095e824-a522-43cb-8f36-fe55f96f1d59"
@@ -25760,7 +25760,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_f3a5c80487d18b83",
@@ -25807,7 +25807,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_cda68869ea70474a9d19c0c36a9a3b1e"
+        "ev_a944177f1a7748078e3b1f925b1c4baf"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/923eaf30-a500-4c9e-b753-a850fea1b5f5"
@@ -25839,7 +25839,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_426fac20a36c41e3",
@@ -25886,7 +25886,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_0ae87dcef7ad4f83bdb9837a5a3ad3e4"
+        "ev_bcab5637ef574a8388406ce1a0598f2a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/8cefcc6a-877c-4081-bcbf-dfb383aeccc7"
@@ -25918,7 +25918,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_3b2c5c24bbf3c953",
@@ -25965,7 +25965,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_43aebc570ec844c885f7f98623a08c00"
+        "ev_a33f943229874995880eeba5fe1ba356"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/178712c0-5af1-4806-8849-f2a3ea1e2c9d"
@@ -25997,7 +25997,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_9605ff4ee160eb4b",
@@ -26044,7 +26044,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_531dfae43dfc426fb8cbc60f7e370539"
+        "ev_30d22b3413394f82b141564d354b5df9"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/34c3a078-6ec0-4569-87e2-dbcd1988534e"
@@ -26076,7 +26076,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_7ec65f90fda4b57f",
@@ -26135,7 +26135,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_9711ee9733bf4fb3a55ace8dfd678be8"
+        "ev_0d45d076ef974d93972dfc44caaccac7"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/d8ae578c-8d64-4bbf-83ec-086b83420428"
@@ -26169,7 +26169,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_e7c563baeccfef31",
@@ -26228,7 +26228,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_d09346c933034eb1996ed9be0eab0f78"
+        "ev_1c0cd213b4254a8cb646636060db5db6"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/4e9fa171-ffce-4203-80bb-dfea7602a508"
@@ -26262,7 +26262,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_26c80fb9fc055ce6",
@@ -26309,7 +26309,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_c81a94702f4f40478e0714365fd4016e"
+        "ev_0f9ec5fe5ed441169e700798f1be9a40"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/acbd0495-03e5-4208-94a5-4a72d5ac9b48"
@@ -26341,7 +26341,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_f902e4f2122c4ab5",
@@ -26388,7 +26388,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_71ef4b50ae8744a5b463fdd1b37aa21c"
+        "ev_d33dfa24fc4b458cad0c124dd8e531f5"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/d9ed5a86-474b-4b91-a9ae-978745358dce"
@@ -26420,7 +26420,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_e5a981f0e86c3844",
@@ -26467,7 +26467,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_c821ec9bcdeb46e3ae3bc5bf8a063c43"
+        "ev_dd848c14bc7d49cc8e0c94314f086a82"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/92e4ef70-4779-4e36-a2f1-cc246864199c"
@@ -26499,7 +26499,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_449b1810b7841a5d",
@@ -26558,7 +26558,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_3ce102af624442f29c2b68e51b8fdab4"
+        "ev_601d0eddcc3a497080abfd3383c07b0c"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/41dacd54-1406-4376-9e09-7de6293590f2"
@@ -26592,7 +26592,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_246b12be3ef20440",
@@ -26651,7 +26651,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_e2d169b16d404fa2b3197d1d5e6360cc"
+        "ev_1c0f1819145642868d91e2ba23608cd1"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/4753cfce-3c52-4e9e-a87d-6bae83d462e5"
@@ -26685,7 +26685,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_3b9fa1bca22fb6ea",
@@ -26744,7 +26744,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_408db796846a4d86ab78bb6602f15fb2"
+        "ev_e16b5d07c4f74e9e9a0c55fb665770f3"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/5f94cf17-a592-4fd9-a12e-d3108293bab2"
@@ -26778,7 +26778,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_f0ec59ba0cc0f4bb",
@@ -26837,7 +26837,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_ededec0bd99f4f3bbbee8491f9e2b469"
+        "ev_7459e92c75914b9885653a5ed8664cd6"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/a8a7d187-95e7-4ee2-83da-fffce0c0b375"
@@ -26871,7 +26871,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_04172e40c2f52bec",
@@ -26930,7 +26930,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_caf2c3c493364bdc99f21d6808968430"
+        "ev_e623d4cc8e7f4276a8fdf17b3e4e4eef"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/e6a74fd5-6879-4016-a39c-470ff492f4a8"
@@ -26964,7 +26964,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_3ae0a2004b58d91a",
@@ -27023,7 +27023,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_21f91357f9044f79a0bbe7a456d9e9ca"
+        "ev_e975f482f60a48f9a4bc4a2d5af40d41"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/37f7312d-0245-4339-a93c-f27e8fedc478"
@@ -27057,7 +27057,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_71e89305caac2891",
@@ -27116,7 +27116,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_5bf5b6914aa24eeca9ffb8ffd8a4a123"
+        "ev_c1aa550e7826489180775ebd25329315"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/95bf1376-ceae-4e2f-856f-47b19ceb8fca"
@@ -27150,7 +27150,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_cb204377b7fe41d6",
@@ -27209,7 +27209,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_2b8b716b68ca42cbb179bcf86a84065a"
+        "ev_92643c800f664fc68f7f076ef08fb7ce"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/c1f428a2-f16f-4955-9306-f516ef97cf67"
@@ -27243,7 +27243,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_fdf3e2384d901be2",
@@ -27302,7 +27302,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_f864f06617f74889841e7ffcabe5b7f1"
+        "ev_07a650824bb04c66901da6be6504389b"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/48f16f6a-070c-40fe-8c48-9971f0ea4e19"
@@ -27336,7 +27336,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_49a702d6f5900129",
@@ -27395,7 +27395,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_55aab1c94e21470394df95148720cd1c"
+        "ev_4235e488cc6449b1827cf20972ecb082"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/cd982d84-fa7c-48c4-b5ad-b63c21b7ec24"
@@ -27429,7 +27429,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_207a5789ebb6296f",
@@ -27488,7 +27488,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_99abbc546c8147a1b06c070aafbcbffb"
+        "ev_d7166b5b8f3044e28560f2f0f13c9e8a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/20dcf1b0-63b4-4581-9b53-eb41492d11a3"
@@ -27522,7 +27522,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_714755024610daa5",
@@ -27581,7 +27581,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_84134445dc7343b5bbb823a83841f466"
+        "ev_e4caef3db1844dda8e2e597a0584b024"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/61782591-aeee-4cb5-aacf-e899d8d03d62"
@@ -27615,7 +27615,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_2bd4b4420bb70a96",
@@ -27674,7 +27674,7 @@
         "Livability Compliance – Vacant Properties"
       ],
       "evidence_ids": [
-        "ev_b80c2b6e947142abbb432aec292e330d"
+        "ev_8de801d5a5e248aeb5939428a11aa83e"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/f6b86640-0dd3-45fd-b5c6-55eb438289fa"
@@ -27708,7 +27708,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_5aa25e054f3a325e",
@@ -27755,7 +27755,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_ec93c3eb05cd4096a2e65e6415befc8a"
+        "ev_f408976b2ef74d4a84c6e6827c8e96fd"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/261f978c-d92b-4552-adeb-16258bfc428b"
@@ -27787,7 +27787,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_10febfd2be87c44e",
@@ -27834,7 +27834,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_5f792c37ec7f49668a0d8a2694b8a388"
+        "ev_7a6682cde7e643e597be9d6537a33a58"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/b74f9826-f5e4-477a-9a11-9a7250bed05c"
@@ -27866,7 +27866,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_3bbf25a27c066fcc",
@@ -27913,7 +27913,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_89b866e4af0a460e8a3fad19fe7bc67d"
+        "ev_a79b04aa6f4746648add3dffe8b4b166"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/c38c8fe6-2af8-4af7-849a-58f19da56ba6"
@@ -27945,7 +27945,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_ec3806fb65649b2f",
@@ -27992,7 +27992,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_05dee91c05204c34be5fa6d9b2d6424a"
+        "ev_4e405ff4055b44f588d615ea52edd806"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/25d7c1e1-3e3e-4aa3-8fce-919db466acfa"
@@ -28024,7 +28024,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_26da138fc9c5d28f",
@@ -28071,7 +28071,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_20483818fbf340e6ae1ad1df4c029f90"
+        "ev_808bf2c8e72d449eb20b69dc81ef9682"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/cff63e6b-5075-43a4-9a35-9e20ac0b4f20"
@@ -28103,7 +28103,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_892895eaca686d67",
@@ -28150,7 +28150,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_93fb894b1f204e19b5ac2c27956f020d"
+        "ev_f9cde35e5b2e41749f5a23bec4b2b42f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/2780e976-23b0-421b-b2e9-638c6f0346e0"
@@ -28182,7 +28182,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_c2d9576a111cbd24",
@@ -28229,7 +28229,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_bf2f8a65a6a7454d956f6bb092af21f3"
+        "ev_3e28199d96554806b43dbbc6d40b46ae"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/affbd12d-38b4-4132-bd16-7b19a13d6460"
@@ -28261,7 +28261,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_f16de198667be2f4",
@@ -28308,7 +28308,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_c1bd5399e49a465db9dba6491a2fde87"
+        "ev_321332c652154e76b2a2528c2aa7fd24"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/13b240bf-fa8e-40c2-89ec-a1ad83b7f049"
@@ -28340,7 +28340,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_36175bc53c5fadd3",
@@ -28387,7 +28387,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_890bfe89acbb4ba0ae5338512d28c842"
+        "ev_315e118825e04936b4d293bede41aed8"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/6cb88495-93c7-4777-9f9d-f6a4d6014009"
@@ -28419,7 +28419,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_2a4622fdb41f3664",
@@ -28466,7 +28466,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_27572790adba421d8512a3facb631589"
+        "ev_f35481cd2cb44ea7a0bd4f8471ffbdda"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/e3009872-ad53-419b-b156-2cdd128f29b0"
@@ -28498,7 +28498,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_9eae5e376673b65b",
@@ -28545,7 +28545,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_d463a850f6264e7b942b8c91079db196"
+        "ev_0fb9a6b96f7f42daac446a4a52e9edc9"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/0ee132e9-e54b-46a0-9d4f-fe64fec7b4a3"
@@ -28577,7 +28577,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_08f83bdae5d41b83",
@@ -28624,7 +28624,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_2d3f387b095c4d2fbedda2a7d3377458"
+        "ev_ebb3c266a03541cebe99e304f5cd06f5"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/ccb5faf4-39f3-4c63-8b7e-357d1eca6833"
@@ -28656,7 +28656,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_12fee392b23fd7f9",
@@ -28703,7 +28703,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_72ba053d164a491184ad3ae92b4a1be8"
+        "ev_8243d5019ac94f5ab3422643afcd4e0e"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/eedc10ba-6baa-4cc7-aee6-208e356fd120"
@@ -28735,7 +28735,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_624846bd68eb2b36",
@@ -28782,7 +28782,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_0cc5e71b56b54fe2973e8f35b5ef3ea1"
+        "ev_ecc0e110c6aa46aa8c823f03513dab08"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/643aa3df-0b19-4146-a404-451951e4327c"
@@ -28814,7 +28814,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_27ecbd8592ebb2c1",
@@ -28861,7 +28861,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_942c2f68114740d08f77042f228c6940"
+        "ev_51d2e07e8a8f4c5388f7ca48082fa15a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/87b532dd-a7a9-45ba-adc5-406f81dc6a2b"
@@ -28893,7 +28893,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_34d5f302726735fc",
@@ -28940,7 +28940,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_f671a83963ef4eeba0c264bfd7f508b3"
+        "ev_82f01882802f47e0b7975efe620cb4d1"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/8f8ed945-ed05-4194-b69e-be40530d7889"
@@ -28972,7 +28972,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_f6d0b98e95971c79",
@@ -29019,7 +29019,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_86ef7aa1e29b49c780b1181786365fba"
+        "ev_0503cd24d80844eeb9cc42b0400912fd"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/562f1203-88f4-4a2d-9c84-d3b2c110e9f9"
@@ -29051,7 +29051,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_601225f8014ce97d",
@@ -29098,7 +29098,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_47cea1b6baff4647a0cc3f1bbf8f75b8"
+        "ev_6c1222ba10984d28b960774d1067c110"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/10f20eb6-7ca1-4f14-94da-f4273280ad57"
@@ -29130,7 +29130,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_781820c582e52596",
@@ -29177,7 +29177,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_7f1bf48372304771a4d2b2b0857a76ef"
+        "ev_40a594d16cea4cb2944db4c970888874"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/eeaed1e6-06d9-484b-b7ee-a89cff009ac2"
@@ -29209,7 +29209,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_567ba237e800d6c2",
@@ -29256,7 +29256,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_13766ca62bc6487bbaeb0f432fb5a7d6"
+        "ev_2ea1f4fef1284ad4815ed6a2b073e78d"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/a94415c4-dcab-439a-9eff-f8b81ef2ce34"
@@ -29288,7 +29288,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_c2901f56428b88f1",
@@ -29335,7 +29335,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_888d12003d4646d8bc7dc210180f9a4c"
+        "ev_44fd59c1339b448db3a156db0f4988f1"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/f5fa2c4e-ebcf-4877-8397-63543d2259cf"
@@ -29367,7 +29367,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_40096d00a30c89ab",
@@ -29414,7 +29414,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_5422287fe6c64b82ad4a1f2722102c10"
+        "ev_205526e2d11e475a9022c933da69311b"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/6b5c2d26-059b-4e18-9d6a-c539b90358c6"
@@ -29446,7 +29446,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_263c3b714120b846",
@@ -29493,7 +29493,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_b5cd78009e30424484586c65199624f8"
+        "ev_9ccde3854b78482f83103f9fb98adb0f"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/8d37ed49-8937-4df4-b7dd-7a3fa45b8f45"
@@ -29525,7 +29525,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_537a4fd6f80d4123",
@@ -29572,7 +29572,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_d545b9734b604f0198725e4cffe4854c"
+        "ev_6da43c89bbcb48b5a3029908020a6ba6"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/ab2aa356-4911-4a9b-b6ff-bb33519e3ac2"
@@ -29604,7 +29604,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_e9b45a953edcba4c",
@@ -29651,7 +29651,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_0bbd69c716e84233ad3351c37b2ef420"
+        "ev_4aa7e8baad7241bda9f8e98be4f7f817"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/581d46f3-8185-4bbe-9b4a-32c5f0d0d9c3"
@@ -29683,7 +29683,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_a4176cf454208772",
@@ -29730,7 +29730,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_7a6bcfc177dd4834aedaf497a37885cb"
+        "ev_99fe20b52724448c9f691a447141b2f8"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/9bba16cc-4ee5-4555-b4e2-93d9658f9012"
@@ -29762,7 +29762,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_08a0c4f5da47a549",
@@ -29809,7 +29809,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_ac2c818a24c04442b497bbc253422c27"
+        "ev_f0b443c81183436cb218e5032f7157ce"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/bde122a6-043b-4a3d-b0b7-87a824300ab4"
@@ -29841,7 +29841,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_b1aec2d2c37a20ce",
@@ -29888,7 +29888,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_c55b0655c342425d96444572cc356ab4"
+        "ev_bccc72ebf75245b6bb68253a76989273"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/c9123c94-fff0-4afe-9f0c-c48607d2932c"
@@ -29920,7 +29920,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_87dcf9936a599a23",
@@ -29967,7 +29967,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_f5b45278ab7149c1be92c06ae02e0028"
+        "ev_f5f026079a094ab3936c30b008b6040e"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/d05e4dbd-9520-41c1-98c9-23f9e23f3dbf"
@@ -29999,7 +29999,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_6a0cde447c5f27b2",
@@ -30046,7 +30046,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_f548204f80d742daa5eec1bb23befe3b"
+        "ev_07c5417c59bb4eb4bbce6eab51a35ebe"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/a392218d-adc0-4a26-bf0a-11ed5f914e7e"
@@ -30078,7 +30078,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_11dfbe8682550f83",
@@ -30125,7 +30125,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_4f9ccd941d9848779dd559ae009e9ad0"
+        "ev_4a7611ab3dc44c178e92e1dc442f6dcf"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/18b7bc98-a366-4e0a-ae48-b88953bab458"
@@ -30157,7 +30157,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_c703ce80521cffc0",
@@ -30204,7 +30204,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_017cf0b65c784e1dbc84a4d57ebdd2f2"
+        "ev_ef7befb170714ca7833ef47d482f4ed4"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/45735f18-3c20-4ef9-960b-c5cbe1bce7d1"
@@ -30236,7 +30236,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_c89d52a791a32452",
@@ -30283,7 +30283,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_f5221521886b4bfbb80b62fc0670b0a7"
+        "ev_75b9b16d264d4b79902c2b1c68ea7b0a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/b1a7e715-8840-4a4e-babb-d2dea49747be"
@@ -30315,7 +30315,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_fd79f4a75fea090b",
@@ -30362,7 +30362,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_2ac1723d75d24ac485cc51622d1561a7"
+        "ev_78f3c5622a50434a9f2404f341392f2d"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/56a97c98-c034-439d-8700-24381f285631"
@@ -30394,7 +30394,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_743db24fd395eead",
@@ -30441,7 +30441,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_7ff6a174938441f480c099ecbc40cb54"
+        "ev_b47ffe802d1b4810b3c19c8cf5a77484"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/4113da5b-febf-4e39-bc2f-1e42b3411716"
@@ -30473,7 +30473,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_ccaea75448f70cbf",
@@ -30520,7 +30520,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_f08b5fe3bb364526a9ab3a34bdf13713"
+        "ev_0f785589e9514812898e8ef109ef043c"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/3bcbb0ee-0542-4df7-881f-02653e8084f0"
@@ -30552,7 +30552,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_6c7992dd2d82c74a",
@@ -30599,7 +30599,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_689d0b5fb87c44a98f838d70c5959058"
+        "ev_38f9608fae764709bb23e1c11f072434"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/1dd9c3ad-0d91-417c-97c8-bc00937c33a1"
@@ -30631,7 +30631,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_f1e0408bb93ec658",
@@ -30678,7 +30678,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_bd7d6e2ab755468787d23434f2d621af"
+        "ev_86dade4f03644b278fb2a812d503c093"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/2247dfd8-5028-42ee-b748-401c9fa570c5"
@@ -30710,7 +30710,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_1d4239a350f6f81a",
@@ -30757,7 +30757,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_09f695e91e1d48ff8a3c2978af01dfd6"
+        "ev_5fc9a32619a84d93aa046337ae89658a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/0e1bc60a-e07e-4bf5-98ce-449836adb2ff"
@@ -30789,7 +30789,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_5e99ac593c34993e",
@@ -30836,7 +30836,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_9bf8955dcf5f4260866e5e23ff89bb23"
+        "ev_939bfb54ff1441a8a24173ac3622dec1"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/00612260-1202-41da-8a35-ff6cc7833306"
@@ -30868,7 +30868,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_6620985c36ad668f",
@@ -30915,7 +30915,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_edcd9b956d12442287b060534a12a318"
+        "ev_2a94b3117ed44005be94c59aeedfe464"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/791a4e54-3f64-4802-abdf-1249c4c619ae"
@@ -30947,7 +30947,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_6c5a63d9217caf3e",
@@ -30994,7 +30994,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_bd81a918d11d4b79a1e486b9a779c192"
+        "ev_53c9ce44a1c5403cbf75c69f0b568128"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/f99c6a83-d194-4725-bb9a-dd14fa641f16"
@@ -31026,7 +31026,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_ad0899b101f7f6fa",
@@ -31073,7 +31073,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_1a28767e66ca4b21a0bf6a88999d1794"
+        "ev_334177eb8695447a955a3f31902cf42a"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/e388b343-9cf5-450c-a23c-2485c30e4adc"
@@ -31105,7 +31105,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_07044090a4e54840",
@@ -31152,7 +31152,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_69c6453504fc4392a08daa95982acd02"
+        "ev_21bfae9935c04369a5f49071a7311630"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/aecf00df-1379-4f25-a429-2bd4a1359eed"
@@ -31184,7 +31184,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_2c4c140f334d51e6",
@@ -31231,7 +31231,7 @@
         "Generic Code Enforcement"
       ],
       "evidence_ids": [
-        "ev_dc9e1f7b69d548da907863068c7aa8a4"
+        "ev_1b42c3c43ea043bea1b8948e8449e06d"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/2de9ad30-1f18-4cde-8cab-0da537046520"
@@ -31263,7 +31263,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_2411ae65a26ca5f6",
@@ -31310,7 +31310,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_9788de3f865540a4a57c3ee912f02a88"
+        "ev_f24e6fe6bb7a4385a0fbd87814f4f4ce"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/8f54c996-e9b4-49ee-b9dc-18d1ac514047"
@@ -31342,7 +31342,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_8f3d381197362086",
@@ -31389,7 +31389,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_aed9e10ee9af49ed87fb84e2bf71b9dd"
+        "ev_782dd937c1b24927beefc1a4c1142306"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/69c24a8c-0edd-4ce7-bfa2-e60725569ad7"
@@ -31421,7 +31421,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_2c09d3f0dbbe80fc",
@@ -31468,7 +31468,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_b8778e21d1a146e6b11f3fb76138e96f"
+        "ev_3aa70ee43436452eb87233523f9baea4"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/c47f0858-ddf5-4f31-b087-28ee21a9f2f3"
@@ -31500,7 +31500,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_e2057835c14f17c5",
@@ -31547,7 +31547,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_40dbb44043c34c50b99ddd7ab91eb86c"
+        "ev_74859b04bd914859a17a6fb875a9a534"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/bcc1a357-eecc-40a9-b0d3-3a2b5ceefa44"
@@ -31579,7 +31579,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_acea7f71a5e640bc",
@@ -31626,7 +31626,7 @@
         "Generic Code Enforcement"
       ],
       "evidence_ids": [
-        "ev_0c6c60d6c7414882bc4d9e35b7fc668d"
+        "ev_de31699095be47edab66bc2f6685b41e"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/c15281c2-a4df-4d44-a00f-33358a60b743"
@@ -31658,7 +31658,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_7d2280221d586e94",
@@ -31705,7 +31705,7 @@
         "Livability - Residential"
       ],
       "evidence_ids": [
-        "ev_73fe13e0b0cc4dbc8ef66ae24abe1a1d"
+        "ev_9fc111b6168e41b1a4e5b8e95cea8438"
       ],
       "primary_source_urls": [
         "https://egcss.charleston-sc.gov/energov_prod/selfservice#/code/4fd195e0-dc98-4436-ae6b-2a7c15f00624"
@@ -31737,7 +31737,7 @@
         ]
       },
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "lead_id": "lead_53bba0df14a04884",
@@ -117525,12 +117525,10 @@
     "wholesale": 353
   },
   "refresh_summary": {
-    "last_run_utc": "2026-11-26T13:39:10Z",
+    "last_run_utc": "2026-11-27T13:43:40Z",
     "last_new_leads_utc": "2026-11-26T13:39:10Z",
-    "new_leads_total": 1,
-    "new_leads_by_type": {
-      "foreclosure": 1
-    },
+    "new_leads_total": 0,
+    "new_leads_by_type": {},
     "carried_total": 1054,
     "expired_total": 0,
     "retired_total": 0,
